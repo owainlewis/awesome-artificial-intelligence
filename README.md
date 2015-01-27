@@ -9,7 +9,8 @@ A curated list of awesome Artificial Intelligence (AI) courses, books, video lec
 
 ## Philosophy of AI
 
-* [Superintelligence](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence (also available as audio from audible.com)
+* [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence
+* [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
 
 ## Free online content
 
@@ -23,7 +24,3 @@ A curated list of awesome Artificial Intelligence (AI) courses, books, video lec
 * [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
 * [Artificial Intelligence Planning](https://www.coursera.org/course/aiplan) - Planning is a fundamental part of intelligent systems. In this course, for example, you will learn the basic algorithms that are used in robots to deliberate over a course of actions to take
 * [Artificial Intelligence for Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
-
-## Audio Books
-
-* [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
