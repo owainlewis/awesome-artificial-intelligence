@@ -11,7 +11,7 @@ A curated list of awesome Artificial Intelligence (AI) courses, books, video lec
 * [Foundations of computational agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest for Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
 
-## Courses
+## Online Courses
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
