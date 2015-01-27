@@ -6,6 +6,10 @@ A curated list of awesome Artificial Intelligence (AI) courses, books, video lec
 
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)   Stuart Russell & Peter Norvig
 
+## Free online content
+
+* [Foundations of computational agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
+
 ## Courses
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
