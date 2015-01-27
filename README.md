@@ -1,8 +1,10 @@
 # Awesome Artificial Intelligence (AI)
 
-![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
+A curated list of awesome Artificial Intelligence (AI) courses, books, video lectures, papers and software. 
 
-A curated list of awesome Artificial Intelligence (AI) courses, books, video lectures, papers and software
+Contributions most welcome.
+
+![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
 
 ## Online Courses
 
