@@ -6,6 +6,10 @@ A curated list of awesome Artificial Intelligence (AI) courses, books, video lec
 
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)   Stuart Russell & Peter Norvig
 
+## Philosophy of AI
+
+* [Superintelligence](http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence (also available as audio from audible.com)
+
 ## Free online content
 
 * [Foundations of computational agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
