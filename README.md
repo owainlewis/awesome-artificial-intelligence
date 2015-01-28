@@ -15,6 +15,8 @@ Contributions most welcome.
 * [Artificial Intelligence for Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
 * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
+* [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
+* [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 
 ## Books About Artificial Intelligence
 
@@ -32,6 +34,7 @@ Contributions most welcome.
 
 * [Superintelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book. 
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
+* [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applys that knowledge to create vastly intelligent machines.
 
 ## Free Content
 
