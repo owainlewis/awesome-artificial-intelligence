@@ -44,9 +44,9 @@ Contributions most welcome.
 
 ## Videos/Talks
 
-* [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI)
+* [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
 
 ## Learning
 
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
