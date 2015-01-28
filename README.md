@@ -40,3 +40,7 @@ Contributions most welcome.
 ## Code
 
 * [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
+
+## Learning
+
+* [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
