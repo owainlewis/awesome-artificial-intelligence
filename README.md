@@ -44,5 +44,5 @@ Contributions most welcome.
 
 ## Learning
 
-*[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
