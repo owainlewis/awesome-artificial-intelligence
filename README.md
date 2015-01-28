@@ -42,6 +42,10 @@ Contributions most welcome.
 
 * [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
 
+## Videos/Talks
+
+* [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI)
+
 ## Learning
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
