@@ -1,6 +1,6 @@
 # Awesome Artificial Intelligence (AI)
 
-A curated list of awesome Artificial Intelligence (AI) courses, books, video lectures and papers. 
+A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
 
 Contributions most welcome.
 
