@@ -40,6 +40,7 @@ Contributions most welcome.
 
 * [Foundations of computational agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest for Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
+* [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 
 ## Code
 
