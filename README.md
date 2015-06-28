@@ -64,6 +64,8 @@ Contributions most welcome.
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
 
+![](http://cdn2-www.craveonline.com/assets/uploads/2015/04/Alicia-Vikander-Ex-Machina.jpg)
+
 ## Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
