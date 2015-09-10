@@ -31,6 +31,8 @@ Contributions most welcome.
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
+* [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
+* [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
 ## Philosophy of AI
 
@@ -52,6 +54,7 @@ Contributions most welcome.
 ## Code
 
 * [AIMA Lisp Source Code](http://aima.cs.berkeley.edu/lisp/doc/overview.html) - Common Lisp source code for "Artificial Intelligence A Modern Approach"
+* [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 
 ## Videos/Talks
 
@@ -63,13 +66,24 @@ Contributions most welcome.
 * [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
+* [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
+* [Machine Learning Mastery](http://machinelearningmastery.com/)
+* [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+* [FastML](http://fastml.com/)
 
 ![](http://cdn2-www.craveonline.com/assets/uploads/2015/04/Alicia-Vikander-Ex-Machina.jpg)
+
+## Societies and Organizations
+
+* [IEEE Computational Intelligence Society](http://cis.ieee.org/)
+* [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 
 ## Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [Sam Harris and Joe Rogan talking about artificial intelligence](https://www.youtube.com/watch?v=JybXEp7k7XU)
+* [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 
 ## License
 
