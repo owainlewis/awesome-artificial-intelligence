@@ -85,6 +85,38 @@ Contributions most welcome.
 * [Sam Harris and Joe Rogan talking about artificial intelligence](https://www.youtube.com/watch?v=JybXEp7k7XU)
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 
+## Journals
+
+* [AI & Society](http://www.springer.com/journal/146)
+* [Annals of Mathematics and Artifical Intelligence](http://www.springer.com/journal/10472)
+* [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
+* [Applied Intelligence](http://www.springer.com/journal/10489)
+* [Artificial Intelligence Review](http://www.springer.com/journal/10462)
+* [Automated Software Engineering](http://www.springer.com/journal/10515)
+* [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
+* [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
+* [Evolutionary Intelligence](http://www.springer.com/journal/12065)
+* [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
+* [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
+* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
+* [Minds and Machines](http://www.springer.com/journal/11023)
+* [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
+* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
+* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/jair/home.html)
+* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
+* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
+* [Computational Intelligence](http://www.blackwellpublishers.co.uk/asp/journal.asp?ref=0824-7935)
+* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
+* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
+* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
+* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
+* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
+* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
+* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
+* [Electronic Transactions on Artificial Intelligence](http://www.etai.info/)
+* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/tase)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
