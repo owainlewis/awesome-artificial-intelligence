@@ -4,7 +4,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 Contributions most welcome.
 
-![AI](http://www.teachthought.com/wp-content/uploads/2012/10/robot-artificial-intelligence.jpg)
+![AI](http://www.telegraph.co.uk/content/dam/film/ex-machina/ex-machina-lead-xlarge.jpg)
 
 ## Online Courses
 
