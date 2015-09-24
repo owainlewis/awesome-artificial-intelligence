@@ -117,6 +117,12 @@ Contributions most welcome.
 * [Electronic Transactions on Artificial Intelligence](http://www.etai.info/)
 * [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/tase)
 
+## Competitions
+
+* [Battlecode](http://www.battlecode.org)
+* [Hello World Open](http://helloworldopen.com)
+* [AI Challenge](http://aichallenge.org)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
