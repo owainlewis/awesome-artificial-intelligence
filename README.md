@@ -120,6 +120,7 @@ Contributions most welcome.
 ## Competitions
 
 * [AI Challenge](http://aichallenge.org)
+* [AI Games](http://theaigames.com)
 
 ## License
 
