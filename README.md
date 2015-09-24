@@ -72,7 +72,7 @@ Contributions most welcome.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 
-![](http://cdn2-www.craveonline.com/assets/uploads/2015/04/Alicia-Vikander-Ex-Machina.jpg)
+![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
 ## Societies and Organizations
 
