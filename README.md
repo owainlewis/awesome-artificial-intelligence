@@ -119,8 +119,6 @@ Contributions most welcome.
 
 ## Competitions
 
-* [Battlecode](http://www.battlecode.org)
-* [Hello World Open](http://helloworldopen.com)
 * [AI Challenge](http://aichallenge.org)
 
 ## License
