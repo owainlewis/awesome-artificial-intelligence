@@ -8,6 +8,14 @@ Contributions most welcome.
 
 1. [Courses](#courses)
 2. [Books](#books)
+3. [Programming](#programming)
+4. [Philosophy])(#philosophy)
+5. [Free Content](#free-content)
+6. [Code](#code)
+7. [Videos](#videos)
+8. [Learning](#learning)
+9. [Organizations](#organizations)
+10. [Misc](#misc)
 
 ![AI](http://www.telegraph.co.uk/content/dam/film/ex-machina/ex-machina-lead-xlarge.jpg)
 
@@ -79,7 +87,7 @@ Contributions most welcome.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
-# Societies and Organizations
+# Organizations
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
