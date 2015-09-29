@@ -9,7 +9,7 @@ Contributions most welcome.
 1. [Courses](#courses)
 2. [Books](#books)
 3. [Programming](#programming)
-4. [Philosophy])(#philosophy)
+4. [Philosophy](#philosophy)
 5. [Free Content](#free-content)
 6. [Code](#code)
 7. [Videos](#videos)
