@@ -15,7 +15,10 @@ Contributions most welcome.
 7. [Videos](#videos)
 8. [Learning](#learning)
 9. [Organizations](#organizations)
-10. [Misc](#misc)
+10. [Journals](#journals)
+11. [Competitions](#competitions)
+12. [Movies](#movies)
+13. [Misc](#misc)
 
 ![AI](http://www.telegraph.co.uk/content/dam/film/ex-machina/ex-machina-lead-xlarge.jpg)
 
@@ -92,12 +95,6 @@ Contributions most welcome.
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 
-# Misc
-
-* [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
-* [Sam Harris and Joe Rogan talking about artificial intelligence](https://www.youtube.com/watch?v=JybXEp7k7XU)
-* [AITopics](http://aitopics.org/) - Large aggregation of AI resources
-
 # Journals
 
 * [AI & Society](http://www.springer.com/journal/146)
@@ -134,6 +131,27 @@ Contributions most welcome.
 
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
+
+
+# Movies
+
+* [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
+* [A.I. Artificial Intelligence](http://www.imdb.com/title/tt0212720/)
+* [Automata](http://www.imdb.com/title/tt1971325/)
+* [Chappie](http://www.imdb.com/title/tt1823672/)
+* [Ex Machina](http://www.imdb.com/title/tt0470752/)
+* [Her](http://www.imdb.com/title/tt1798709/)
+* [I, Robot](http://www.imdb.com/title/tt0343818/)
+* [Prometheus](http://www.imdb.com/title/tt1446714/)
+* [The Terminator](http://www.imdb.com/title/tt0088247/)
+* [Transcendence](http://www.imdb.com/title/tt2209764/)
+
+
+# Misc
+
+* [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
+* [Sam Harris and Joe Rogan talking about artificial intelligence](https://www.youtube.com/watch?v=JybXEp7k7XU)
+* [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 
 ## License
 
