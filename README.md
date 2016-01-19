@@ -32,6 +32,7 @@ Contributions most welcome.
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
 * [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
+* [philosophy of Machine Learning](https://www.youtube.com/watch?v=5gwG0x_MtVk&list=PLHMtOn335AZK_Bv3AgV5MCKeRw28PwlvA)-the courses of Fudan University for Machine Learning 
 
 # Books
 
@@ -76,6 +77,7 @@ Contributions most welcome.
 
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+* [The Threat from Artificial Intelligence](https://www.youtube.com/watch?v=_-8x0E-NwN4)-The programme 'Cosmic Disclosure'talks about the Artificial Intellegence]
 
 # Learning
 
