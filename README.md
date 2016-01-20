@@ -77,7 +77,10 @@ Contributions most welcome.
 
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
-* [The Threat from Artificial Intelligence](https://www.youtube.com/watch?v=_-8x0E-NwN4) - Talks about Artificial Intelligence]
+* [The Threat from Artificial Intelligence(1)](https://www.youtube.com/watch?v=_-8x0E-NwN4) - Talks about Artificial Intelligence
+* [The Threat from Artificial Intelligence(2)](https://www.youtube.com/watch?v=FgOqNH8genM)-Talks about Artificial Intelligence
+* [The Threat from Artificial Intelligence(2)](https://www.youtube.com/watch?v=g7Sp4jcTBPo)-Talks about Artificial Intelligence
+* [IBM SyNAPSE Deep Dive](https://www.youtube.com/playlist?list=PLpjMlit6IrbC-ARH3DDIZ7yk9nIcNInDq)-videos list about Artificial Intelligence 
 
 # Learning
 
@@ -149,6 +152,7 @@ Contributions most welcome.
 * [Prometheus](http://www.imdb.com/title/tt1446714/)
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
+* [Story of R32](https://www.youtube.com/watch?v=M6Jp6B5Juxs)-a small sad movie about Artificial Intelligence 
 
 
 # Misc
