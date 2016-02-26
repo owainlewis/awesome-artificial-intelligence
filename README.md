@@ -141,6 +141,7 @@ Contributions most welcome.
 * [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
 * [A.I. Artificial Intelligence](http://www.imdb.com/title/tt0212720/)
 * [Automata](http://www.imdb.com/title/tt1971325/)
+* [Blade Runner](http://www.imdb.com/title/tt0083658/)
 * [Chappie](http://www.imdb.com/title/tt1823672/)
 * [Ex Machina](http://www.imdb.com/title/tt0470752/)
 * [Her](http://www.imdb.com/title/tt1798709/)
