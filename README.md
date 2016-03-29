@@ -77,6 +77,9 @@ Contributions most welcome.
 
 # Videos
 
+* [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
+* [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)
+* [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
 
