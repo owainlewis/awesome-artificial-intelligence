@@ -162,6 +162,7 @@ Contributions most welcome.
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [Sam Harris and Joe Rogan talking about artificial intelligence](https://www.youtube.com/watch?v=JybXEp7k7XU)
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
+* [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 
 ## License
 
