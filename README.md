@@ -102,6 +102,8 @@ Contributions most welcome.
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
+* [OpenAI](https://openai.com/about/)
+* [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
 
 # Journals
 
