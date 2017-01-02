@@ -22,6 +22,7 @@ Contributions most welcome.
 
 ![AI](http://www.telegraph.co.uk/content/dam/film/ex-machina/ex-machina-lead-xlarge.jpg)
 
+
 # Courses
 
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
@@ -35,6 +36,7 @@ Contributions most welcome.
 * [Philosophy of Machine Learning](https://www.youtube.com/watch?v=5gwG0x_MtVk&list=PLHMtOn335AZK_Bv3AgV5MCKeRw28PwlvA) - The courses of Fudan University for Machine Learning
 * [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 
+
 # Books
 
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
@@ -47,12 +49,14 @@ Contributions most welcome.
 * [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
 * [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7) - Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems
 
+
 # Programming
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
+
 
 # Philosophy
 
@@ -75,10 +79,12 @@ Contributions most welcome.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 
+
 # Code
 
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
+
 
 # Videos
 
@@ -87,6 +93,7 @@ Contributions most welcome.
 * [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+
 
 # Learning
 
@@ -102,12 +109,14 @@ Contributions most welcome.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
+
 # Organizations
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 * [OpenAI](https://openai.com/about/)
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
+
 
 # Journals
 
@@ -141,6 +150,7 @@ Contributions most welcome.
 * [Electronic Transactions on Artificial Intelligence](http://www.etai.info/)
 * [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/tase)
 
+
 # Competitions
 
 * [AI Challenge](http://aichallenge.org)
@@ -166,7 +176,6 @@ Contributions most welcome.
 # Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
-* [Sam Harris and Joe Rogan talking about artificial intelligence](https://www.youtube.com/watch?v=JybXEp7k7XU)
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 
