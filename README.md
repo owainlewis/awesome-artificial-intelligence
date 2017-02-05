@@ -156,8 +156,6 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
-* [CodinGame](https://www.codingame.com)
-
 
 # Movies
 
