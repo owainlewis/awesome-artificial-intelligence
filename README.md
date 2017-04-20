@@ -134,10 +134,10 @@ Contributions most welcome.
 * [Minds and Machines](http://www.springer.com/journal/11023)
 * [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
 * [Artificial Intelligence](http://www.elsevier.com/locate/artint)
-* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/jair/home.html)
+* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 * [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
-* [Computational Intelligence](http://www.blackwellpublishers.co.uk/asp/journal.asp?ref=0824-7935)
+* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
 * [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
 * [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
 * [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
@@ -145,8 +145,8 @@ Contributions most welcome.
 * [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
 * [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
 * [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
-* [Electronic Transactions on Artificial Intelligence](http://www.etai.info/)
-* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/tase)
+* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
+* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 
 
 # Competitions
