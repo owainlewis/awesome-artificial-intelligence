@@ -152,6 +152,7 @@ Contributions most welcome.
 
 # Competitions
 
+* [MIT Battlecode](https://www.battlecode.org/)
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
