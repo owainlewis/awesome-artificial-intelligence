@@ -20,7 +20,7 @@ Contributions most welcome.
 12. [Movies](#movies)
 13. [Misc](#misc)
 
-![AI](http://www.popsci.com/sites/popsci.com/files/styles/large_1x_/public/exmachina_ftr-prores_mps_20140729_trim_036.jpg)
+![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
 
 # Courses
@@ -106,8 +106,6 @@ Contributions most welcome.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
-
-![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
 
 # Organizations
