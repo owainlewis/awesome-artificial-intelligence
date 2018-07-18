@@ -53,7 +53,7 @@ Contributions most welcome.
 ## Programming
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
-* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://dl.dropboxusercontent.com/u/6475135/Luger_0136070477_1.pdf)
+* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](http://www.cs.fsu.edu/~cap5605/Luger_0136070477_1.pdf)
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
