@@ -109,6 +109,7 @@ Contributions most welcome.
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+* [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A comprehensive curated collection of free professional and in depth Artificial Intelligence, Machine Learning and Deep Learning video tutorials and courses
 
 
 ## Organizations
