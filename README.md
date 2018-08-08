@@ -112,6 +112,7 @@ Contributions most welcome.
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in depth Machine Learning and Data Science video tutorials and courses
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
 
 ## Organizations
