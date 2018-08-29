@@ -96,7 +96,7 @@ Contributions most welcome.
 * [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
-
+* [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- This interactive liveVideo course gives you a crash course in using AWS for machine learning, teaching you how to build a fully-working predictive algorithm.
 
 ## Learning
 
