@@ -192,6 +192,7 @@ Contributions most welcome.
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
+* [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
 ## License
 
