@@ -129,6 +129,7 @@ Contributions most welcome.
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 * [OpenAI](https://openai.com/about/)
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
+* [Google DeepMind Research](https://deepmind.com/research/)
 
 
 ## Journals
