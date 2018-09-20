@@ -71,6 +71,7 @@ Contributions most welcome.
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
 * [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philospher John Searle that contains the famous 'Chinese Room' thought experiment. Probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and interesting reading for those interested in the intersection of AI and philosophy of mind.
 * [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Price for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
+* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
 
 
 ## Free Content
@@ -128,6 +129,7 @@ Contributions most welcome.
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 * [OpenAI](https://openai.com/about/)
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
+* [Google DeepMind Research](https://deepmind.com/research/)
 
 
 ## Journals
@@ -190,6 +192,7 @@ Contributions most welcome.
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
+* [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
 ## License
 
