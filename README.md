@@ -187,6 +187,12 @@ Contributions most welcome.
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
 
 
+## TV Shows
+
+* [Humans](https://www.imdb.com/title/tt4122068)
+* [Westworld](https://www.imdb.com/title/tt0475784/)
+
+
 ## Misc
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
