@@ -131,6 +131,7 @@ Contributions most welcome.
 * [OpenAI](https://openai.com/about/)
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
 * [Google DeepMind Research](https://deepmind.com/research/)
+* [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
 
 ## Journals
