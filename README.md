@@ -39,7 +39,6 @@ Contributions most welcome.
 * [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 * [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) In this liveVideo course, machine learning expert Oliver Zeigermann teaches you the basics of deep learning.
-
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
   * Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
 * [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
@@ -65,7 +64,6 @@ Contributions most welcome.
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
-
 ## Philosophy
 
 * [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
@@ -74,7 +72,6 @@ Contributions most welcome.
 * [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philospher John Searle that contains the famous 'Chinese Room' thought experiment. Probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and interesting reading for those interested in the intersection of AI and philosophy of mind.
 * [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this wonderful journey into the the fundamental concepts of mathematics,symmetry and intelligence won a Pulitzer Price for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
-
 
 ## Free Content
 
@@ -89,13 +86,11 @@ Contributions most welcome.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 
-
 ## Code
 
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 * [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
-
 
 ## Videos
 
@@ -125,7 +120,6 @@ Contributions most welcome.
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Learning from graph stuctured data
 
-
 ## Organizations
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
@@ -134,7 +128,6 @@ Contributions most welcome.
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
 * [Google DeepMind Research](https://deepmind.com/research/)
 * [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
-
 
 ## Journals
 
@@ -168,7 +161,6 @@ Contributions most welcome.
 * [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
 * [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 
-
 ## Competitions
 
 * [MIT Battlecode](https://www.battlecode.org/)
@@ -190,12 +182,10 @@ Contributions most welcome.
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
 
-
 ## TV Shows
 
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
-
 
 ## Misc
 
