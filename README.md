@@ -119,7 +119,7 @@ Contributions most welcome.
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Learning from graph stuctured data
-
+* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering large graphs and networks
 ## Organizations
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
