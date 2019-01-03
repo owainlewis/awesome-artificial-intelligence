@@ -19,8 +19,7 @@ Contributions most welcome.
 9. [Organizations](#organizations)
 10. [Journals](#journals)
 11. [Competitions](#competitions)
-12. [Movies](#movies)
-13. [Misc](#misc)
+12. [Misc](#misc)
 
 
 ## Courses
@@ -167,25 +166,6 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
-
-## Movies
-
-* [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
-* [A.I. Artificial Intelligence](http://www.imdb.com/title/tt0212720/)
-* [Automata](http://www.imdb.com/title/tt1971325/)
-* [Blade Runner](http://www.imdb.com/title/tt0083658/)
-* [Chappie](http://www.imdb.com/title/tt1823672/)
-* [Ex Machina](http://www.imdb.com/title/tt0470752/)
-* [Her](http://www.imdb.com/title/tt1798709/)
-* [I, Robot](http://www.imdb.com/title/tt0343818/)
-* [Prometheus](http://www.imdb.com/title/tt1446714/)
-* [The Terminator](http://www.imdb.com/title/tt0088247/)
-* [Transcendence](http://www.imdb.com/title/tt2209764/)
-
-## TV Shows
-
-* [Humans](https://www.imdb.com/title/tt4122068)
-* [Westworld](https://www.imdb.com/title/tt0475784/)
 
 ## Misc
 
