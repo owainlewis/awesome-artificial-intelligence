@@ -102,6 +102,7 @@ Contributions most welcome.
 * [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- This interactive liveVideo course gives you a crash course in using AWS for machine learning, teaching you how to build a fully-working predictive algorithm.
 * [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework, you’ll actually discover how to build these algorithms completely from scratch!
+
 ## Learning
 
 * [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
@@ -119,7 +120,6 @@ Contributions most welcome.
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Learning from graph stuctured data
-
 
 ## Organizations
 
