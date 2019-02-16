@@ -84,6 +84,7 @@ Contributions most welcome.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
+* [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - educational neural net simulator and historical AI papers.
 
 ## Code
 
@@ -118,6 +119,7 @@ Contributions most welcome.
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Learning from graph stuctured data
+
 
 ## Organizations
 
