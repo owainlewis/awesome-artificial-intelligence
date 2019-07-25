@@ -19,11 +19,14 @@ Contributions most welcome.
 9. [Organizations](#organizations)
 10. [Journals](#journals)
 11. [Competitions](#competitions)
-12. [Misc](#misc)
+12. [Newsletters](#newsletters)
+13. [Misc](#misc)
 
 
 ## Courses
-
+* [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
+* [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
+* [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) - Beginner's course to learn deep learning and neural networks without frameworks.
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
@@ -56,10 +59,11 @@ Contributions most welcome.
 * [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning introduces this powerful machine learning approach, using examples, illustrations, exercises, and crystal-clear teaching. 
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - Early access book on how to create practical NLP applications using Python. 
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 
 ## Books
 
-[Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
+* [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 
 ## Programming
 
@@ -125,7 +129,7 @@ Contributions most welcome.
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
-* [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Learning from graph stuctured data
+* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph stuctured data
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
 * [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
 * [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
@@ -143,34 +147,35 @@ Contributions most welcome.
 ## Journals
 
 * [AI & Society](http://www.springer.com/journal/146)
+* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
+* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 * [Annals of Mathematics and Artifical Intelligence](http://www.springer.com/journal/10472)
 * [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
+* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
 * [Applied Intelligence](http://www.springer.com/journal/10489)
+* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
 * [Artificial Intelligence Review](http://www.springer.com/journal/10462)
+* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
 * [Automated Software Engineering](http://www.springer.com/journal/10515)
 * [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
 * [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
+* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
+* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
 * [Evolutionary Intelligence](http://www.springer.com/journal/12065)
+* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
+* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 * [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
+* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
+* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
+* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
-* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
 * [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
+* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
 * [Minds and Machines](http://www.springer.com/journal/11023)
 * [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
-* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
-* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
-* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
-* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
-* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
-* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
-* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
-* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
-* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
-* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
-* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
-* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
-* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
-* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
+
 
 ## Competitions
 
@@ -178,6 +183,10 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
+
+## Newsletters
+
+* [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 ## Misc
 
