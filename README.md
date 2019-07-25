@@ -19,7 +19,8 @@ Contributions most welcome.
 9. [Organizations](#organizations)
 10. [Journals](#journals)
 11. [Competitions](#competitions)
-12. [Misc](#misc)
+12. [Newsletters](#newsletters)
+13. [Misc](#misc)
 
 
 ## Courses
@@ -180,6 +181,10 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
+
+## Newsletters
+
+* [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 ## Misc
 
