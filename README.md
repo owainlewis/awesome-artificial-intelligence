@@ -143,7 +143,7 @@ Contributions most welcome.
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
 * [Google DeepMind Research](https://deepmind.com/research/)
 * [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
-* AI Google (https://ai.google/)
+* [AI Google](https://ai.google/)
 
 ## Journals
 
@@ -195,7 +195,7 @@ Contributions most welcome.
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
-* [AI Experiments with Google] (https://experiments.withgoogle.com/collection/ai)
+* [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 
 ## License
 
