@@ -144,6 +144,7 @@ Contributions most welcome.
 * [Google DeepMind Research](https://deepmind.com/research/)
 * [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 * [AI Google](https://ai.google/)
+* [Facebook AI](https://ai.facebook.com)
 
 ## Journals
 
