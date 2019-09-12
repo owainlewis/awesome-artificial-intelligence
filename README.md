@@ -135,6 +135,7 @@ Contributions most welcome.
 * [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
 * [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
 * [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
+* [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
 ## Organizations
 
