@@ -66,6 +66,7 @@ Contributions most welcome.
 ## Books
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
+* [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
 
 ## Programming
 
