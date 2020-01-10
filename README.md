@@ -199,6 +199,7 @@ Contributions most welcome.
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
+* [Cyber](https://github.com/cybercongress) - A distributed thinking mechanism, able to learn from knowledge graphs and provide predictable models of the universe
 
 ## License
 
