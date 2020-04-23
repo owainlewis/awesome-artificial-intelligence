@@ -67,6 +67,7 @@ Contributions most welcome.
 ## Books
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
+* [Math and Architectures of Deep Learning)](https://www.manning.com/books/math-and-architectures-of-deep-learning) - Early access book that goes from basic math up to state-of-the-art deep learning paradigms.
 
 ## Programming
 
