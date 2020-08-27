@@ -194,6 +194,7 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
+* [Halite](https://halite.io/)
 
 ## Newsletters
 
