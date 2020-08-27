@@ -194,7 +194,7 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
-
+* [Halite](https://halite.io/)
 ## Newsletters
 
 * [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
