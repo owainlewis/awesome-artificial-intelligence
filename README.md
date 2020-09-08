@@ -64,6 +64,7 @@ Contributions most welcome.
 * [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - A hands-on guide to NLP with practical techniques, numerous Python-based examples and real-world case studies.
 * [Kaggle's micro courses](https://www.kaggle.com/learn/overview) - A series of micro courses by offering practical and hands-on knowledge ranging from Python to Deep Learning.
+* [Intellipaat's Artificial Intelligence](https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/) - master convolutional neural networks (CNN), perceptron in CNN, TensorFlow & recurrent neural networks (RNN) to become a successful AI Engineer!
 
 ## Books
 
