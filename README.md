@@ -198,6 +198,7 @@ Contributions most welcome.
 ## Newsletters
 
 * [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+* [AI News](https://www.quickchat.ai/newsletter). A free weekly newsletter featuring curated news, articles and jobs related to Artificial Intelligence. [Archive](https://itemsy.com/quickchat).
 
 ## Misc
 
