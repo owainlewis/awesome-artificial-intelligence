@@ -64,11 +64,15 @@ Contributions most welcome.
 * [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - A hands-on guide to NLP with practical techniques, numerous Python-based examples and real-world case studies.
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - Early access book that goes from basic math up to state-of-the-art deep learning paradigms.
+* [Kaggle's micro courses](https://www.kaggle.com/learn/overview) - A series of micro courses by offering practical and hands-on knowledge ranging from Python to Deep Learning.
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Second edition of the book, introduces the field of deep learning using the Python language and the powerful Keras library.
 
 ## Books
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
+* [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
+* [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
+* [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 
 
 ## Programming
@@ -103,6 +107,7 @@ Contributions most welcome.
 
 ## Code
 
+* [ExplainX](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 * [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
@@ -150,6 +155,8 @@ Contributions most welcome.
 * [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
 * [Google DeepMind Research](https://deepmind.com/research/)
 * [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
+* [AI Google](https://ai.google/)
+* [Facebook AI](https://ai.facebook.com)
 
 ## Journals
 
@@ -201,6 +208,7 @@ Contributions most welcome.
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
+* [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 
 ## License
 
