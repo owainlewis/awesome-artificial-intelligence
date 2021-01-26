@@ -65,6 +65,9 @@ Contributions most welcome.
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - A hands-on guide to NLP with practical techniques, numerous Python-based examples and real-world case studies.
 * [Kaggle's micro courses](https://www.kaggle.com/learn/overview) - A series of micro courses by offering practical and hands-on knowledge ranging from Python to Deep Learning.
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github&utm_medium=organic&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
+* (Stanford Deep Learning Series][https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb]
+* [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which itroduces the ML concepts & strategies with lots of practical usages.
+* [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
 
 ## Books
 
@@ -72,6 +75,7 @@ Contributions most welcome.
 * [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 * [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
+* [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
 
 ## Programming
 
@@ -155,6 +159,8 @@ Contributions most welcome.
 * [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 * [AI Google](https://ai.google/)
 * [Facebook AI](https://ai.facebook.com)
+* [IBM Research](https://www.research.ibm.com/artificial-intelligence)
+* [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
 
 ## Journals
 
