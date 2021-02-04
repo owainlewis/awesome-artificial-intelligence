@@ -33,8 +33,7 @@ Contributions most welcome.
 * [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
 * [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
 * [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
-* [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
-* [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) - An Introductory course to the world of Deep Learning. 
+* [Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - An Introductory course to the world of Deep Learning using TensorFlow. 
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 * [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 * [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
@@ -72,7 +71,7 @@ Contributions most welcome.
 ## Books
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
-* [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
+* [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 * [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
@@ -80,7 +79,7 @@ Contributions most welcome.
 ## Programming
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
-* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](http://www.cs.fsu.edu/~cap5605/Luger_0136070477_1.pdf)
+* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf)
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
@@ -100,9 +99,9 @@ Contributions most welcome.
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
-* [Artificial Intelligence and Molecular Biology](http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
+* [Artificial Intelligence and Molecular Biology](https://web.archive.org/web/20060627060706/http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
-* [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
+* [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia:Computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 * [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautiful animated infographics and real life examples. Available in various languages.
@@ -131,10 +130,10 @@ Contributions most welcome.
 * [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
 * [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
 * [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
-* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
+* [Deep Learning](https://www.deeplearningbook.org) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
 * [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/)
-* [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
+* [Deep Learning.net](https://web.archive.org/web/20201114013453/http://deeplearning.net/) - Aggregation site for DL resources
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
@@ -169,7 +168,7 @@ Contributions most welcome.
 * [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 * [Annals of Mathematics and Artifical Intelligence](http://www.springer.com/journal/10472)
 * [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
-* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
+* [Applied Artificial Intelligence](https://www.tandfonline.com/toc/uaai20/current)
 * [Applied Intelligence](http://www.springer.com/journal/10489)
 * [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
 * [Artificial Intelligence Review](http://www.springer.com/journal/10462)
@@ -178,16 +177,16 @@ Contributions most welcome.
 * [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
 * [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
 * [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
-* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
+* [Electronic Transactions on Artificial Intelligence](https://dblp.org/db/journals/etai/index.html)
 * [Evolutionary Intelligence](http://www.springer.com/journal/12065)
 * [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
 * [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 * [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
-* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
-* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
+* [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
+* [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait)
 * [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
-* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
+* [Journal of Experimental and Theoretical Artificial Intelligence ](https://www.tandfonline.com/toc/teta20/current)
 * [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
 * [Journal on Data Semantics ](http://www.springer.com/journal/13740)
 * [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
@@ -200,7 +199,6 @@ Contributions most welcome.
 * [MIT Battlecode](https://www.battlecode.org/)
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
-* [Building JS robots](http://fightcodegame.com/)
 
 ## Newsletters
 
