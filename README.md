@@ -24,6 +24,7 @@ Contributions most welcome.
 
 
 ## Courses
+* [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
 * [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
 * [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
 * [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI
