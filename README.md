@@ -76,6 +76,7 @@ Contributions most welcome.
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 * [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
+* [AI For Data Science- Artificial Intelligence Framworks For Deel Learning, Optimization & Beyond](https://www.amazon.com/Data-Science-Intelligence-Functionality-Optimization/dp/1634624092) - A book written by Zacharias Voulgaris on the using Artificial Intelligence and Deep Learning in Data Science Projects
 
 ## Programming
 
