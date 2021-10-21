@@ -80,6 +80,7 @@ Contributions most welcome.
 * [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - a book that teaches you how to build search engines that automatically understand the intention of a query in order to deliver significantly better results.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Grokking Machine Learning teaches you how to apply ML to your projects using only standard Python code and high school-level math.
 * [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Learn the essentials of machine learning by completing a carefully designed set of real-world projects.
+* [Interpretable AI](https://www.manning.com/books/interpretable-ai) - a hands-on guide to interpretability techniques that open up the black box of AI.
 
 ## Programming
 
