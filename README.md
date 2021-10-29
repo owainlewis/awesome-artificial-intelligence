@@ -81,6 +81,7 @@ Contributions most welcome.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Grokking Machine Learning teaches you how to apply ML to your projects using only standard Python code and high school-level math.
 * [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Learn the essentials of machine learning by completing a carefully designed set of real-world projects.
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) - a hands-on guide to interpretability techniques that open up the black box of AI.
+* [Conversational AI](https://www.manning.com/books/conversational-ai) - Design, develop, and deploy human-like AI solutions that chat with your customers, solve their problems, and streamline your support services.
 
 ## Programming
 
