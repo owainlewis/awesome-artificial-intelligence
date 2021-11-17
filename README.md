@@ -83,6 +83,7 @@ Contributions most welcome.
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) - a hands-on guide to interpretability techniques that open up the black box of AI.
 * [Conversational AI](https://www.manning.com/books/conversational-ai) - Design, develop, and deploy human-like AI solutions that chat with your customers, solve their problems, and streamline your support services.
 * [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices) - Discover best practices, reproducible architectures, and design patterns to help guide deep learning models from the lab into production.
+* [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 
 ## Programming
 
