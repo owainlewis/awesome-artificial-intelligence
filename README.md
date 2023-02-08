@@ -84,7 +84,8 @@ Contributions most welcome.
 * [Conversational AI](https://www.manning.com/books/conversational-ai) - Design, develop, and deploy human-like AI solutions that chat with your customers, solve their problems, and streamline your support services.
 * [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices) - Discover best practices, reproducible architectures, and design patterns to help guide deep learning models from the lab into production.
 * [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
-* [Build a Robo Advisor with Python (From Scratch)](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch) - A book about how to construct a Python-based financial advisor of your own,
+* [Build a Robo Advisor with Python (From Scratch)](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch) - A book about how to construct a Python-based financial advisor of your own.
+* [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) - A book about using ChatGPT and GitHub Copilot for coding.
 
 ## Programming
 
