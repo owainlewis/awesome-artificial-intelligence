@@ -214,6 +214,7 @@ Contributions most welcome.
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 * [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+* [SERP AI - Resources](https://serp.ai/) - Growing database of AI/ML tools, courses, books, models, datasets, news & information
 
 ## License
 
