@@ -85,7 +85,8 @@ Contributions most welcome.
 * [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 * [Build a Robo Advisor with Python (From Scratch)](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch) - A book about how to construct a Python-based financial advisor of your own.
 * [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) - A book about using ChatGPT and GitHub Copilot for coding.
-* [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) -Tthis book gives you the tools you need to work better, faster, and smarter with AI.
+* [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) -This book gives you the tools you need to work better, faster, and smarter with AI.
+* [AI-Assisted Data Science](https://www.manning.com/books/ai-assisted-data-science) -A book that teaches how to use a new generation of AI assistants and Large Language Models (LLMs) to simplify and accelerate common data science tasks.
 
 ## Programming
 
