@@ -77,6 +77,7 @@ Contributions most welcome.
 * [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
 * [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning) - a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
+* [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows exactly how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects..
 
 ## Programming
 
