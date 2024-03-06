@@ -78,7 +78,18 @@ Contributions are most welcome.
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 * [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
-* [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning) - a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
+* [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - a book that teaches you how to build search engines that automatically understand the intention of a query in order to deliver significantly better results.
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Grokking Machine Learning teaches you how to apply ML to your projects using only standard Python code and high school-level math.
+* [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Learn the essentials of machine learning by completing a carefully designed set of real-world projects.
+* [Interpretable AI](https://www.manning.com/books/interpretable-ai) - a hands-on guide to interpretability techniques that open up the black box of AI.
+* [Conversational AI](https://www.manning.com/books/conversational-ai) - Design, develop, and deploy human-like AI solutions that chat with your customers, solve their problems, and streamline your support services.
+* [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices) - Discover best practices, reproducible architectures, and design patterns to help guide deep learning models from the lab into production.
+* [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
+* [Build a Robo Advisor with Python (From Scratch)](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch) - A book about how to construct a Python-based financial advisor of your own.
+* [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) - A book about using ChatGPT and GitHub Copilot for coding.
+* [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) -This book gives you the tools you need to work better, faster, and smarter with AI.
+* [AI-Assisted Data Science](https://www.manning.com/books/ai-assisted-data-science) -A book that teaches how to use a new generation of AI assistants and Large Language Models (LLMs) to simplify and accelerate common data science tasks.
+* [AI Reality and Illusion](https://www.manning.com/books/ai-reality-and-illusion) -A comprehensive guide to every leading technique of AI and machine learning, showing you how they work, and how you can incorporate them into your business.
 
 ## Programming
 
@@ -128,7 +139,15 @@ Contributions are most welcome.
 * [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- This interactive liveVideo course gives you a crash course in using AWS for machine learning, teaching you how to build a fully-working predictive algorithm.
 * [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework, you’ll actually discover how to build these algorithms completely from scratch!
-* [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This liveVideo breaks down key concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents. 
+* [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This liveVideo breaks down key concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents.
+* [Luis Serrano: Introduction to Deep Reinforcement Learning](https://youtu.be/1FyAh07jh0o) - Luis explains how deep reinforcement learning works, focusing on Q-networks and policy gradients, over a simple example.
+* [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
+* [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
+* [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
+* [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
+* [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
+* [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
+* [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 
 ## Learning
 
