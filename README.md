@@ -216,6 +216,7 @@ Contributions are most welcome.
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 * [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+* [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 ## License
 
