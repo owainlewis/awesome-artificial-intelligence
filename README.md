@@ -2,7 +2,7 @@
 
 This is a curated list of Artificial Intelligence (AI) tools, courses, books, lectures, and papers. Contributions are most welcome.
 
-For software engineering leadership and AI content, follow on [LinkedIn].
+For software engineering leadership and AI content, follow on [LinkedIn](https://www.linkedin.com/in/owainlewis82/).
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
