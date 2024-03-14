@@ -1,27 +1,33 @@
 # Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+This is a curated list of Artificial Intelligence (AI) tools, courses, books, lectures, and papers. Contributions are most welcome.
 
-Contributions are most welcome.
+For software engineering leadership and AI content, follow on [LinkedIn].
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
 ## Contents
 
-1. [Courses](#courses)
-2. [Books](#books)
-3. [Programming](#programming)
-4. [Philosophy](#philosophy)
-5. [Free Content](#free-content)
-6. [Code](#code)
-7. [Videos](#videos)
-8. [Learning](#learning)
-9. [Organizations](#organizations)
-10. [Journals](#journals)
-11. [Competitions](#competitions)
-12. [Newsletters](#newsletters)
-13. [Misc](#misc)
+1. [Tools](#tools))
+2. [Courses](#courses)
+3. [Books](#books)
+4. [Programming](#programming)
+5. [Philosophy](#philosophy)
+6. [Free Content](#free-content)
+7. [Code](#code)
+8. [Videos](#videos)
+9. [Learning](#learning)
+10. [Organizations](#organizations)
+11. [Journals](#journals)
+12. [Competitions](#competitions)
+13. [Newsletters](#newsletters)
+14. [Misc](#misc)
 
+## Tools
+* [Chat GPT](https://chat.openai.com/) ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.
+* [Gemini](https://gemini.google.com/) Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.
+* [DALL·E 2](https://openai.com/dall-e-3) DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.
+* [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
 
 ## Courses
 * [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
@@ -207,7 +213,8 @@ Contributions are most welcome.
 
 ## Newsletters
 
-* [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+* [AI Digest](https://aidigest.net/). A weekly newsletter to keep updated with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+* [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
 
 ## Misc
 
@@ -221,4 +228,4 @@ Contributions are most welcome.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waived all copyright and related or neighbouring rights to this work.
