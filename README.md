@@ -214,8 +214,6 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [AI Games](http://theaigames.com)
 
 ## Newsletters
-
-* [AI Digest](https://aidigest.net/). A weekly newsletter to keep updated with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 * [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
 
 ## Misc
