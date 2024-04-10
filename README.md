@@ -74,7 +74,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - A hands-on guide to NLP with practical techniques, numerous Python-based examples and real-world case studies.
 * [Kaggle's micro courses](https://www.kaggle.com/learn/overview) - A series of micro courses by offering practical and hands-on knowledge ranging from Python to Deep Learning.
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github&utm_medium=organic&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
-* (Stanford Deep Learning Series][https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb]
+* [Stanford Deep Learning Series](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 * [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which introduces the ML concepts & strategies with lots of practical usages.
 * [Machine Learning Observability Course](https://arize.com/blog-course/) - Self-guided course covers the intuition, math, and best practices for effective machine learning observability.
 * [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
