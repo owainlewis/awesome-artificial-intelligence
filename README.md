@@ -216,6 +216,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 
 ## Newsletters
 * [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
+* [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers from Google DeepMind, OpenAI, Meta, and others, on cutting-edge AI papers.
 
 ## Misc
 
