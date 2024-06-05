@@ -81,6 +81,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 
 ## Books
 
+* [Awesome AI Books](https://github.com/zachpinto/awesome-ai-books) - Collection of non-fiction books about or related to AI
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 * [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way. 
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) is a book on general-purpose machine learning techniques, including regression, classification, unsupervised clustering, reinforcement learning, autoencoders, convolutional neural networks, RNNs, and LSTMs, using TensorFlow 1.14.1.
