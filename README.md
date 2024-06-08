@@ -20,7 +20,8 @@ Contributions are most welcome.
 10. [Journals](#journals)
 11. [Competitions](#competitions)
 12. [Newsletters](#newsletters)
-13. [Misc](#misc)
+13. [Careers](#careers)
+14. [Misc](#misc)
 
 
 ## Courses
@@ -208,6 +209,10 @@ Contributions are most welcome.
 ## Newsletters
 
 * [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+
+## Careers
+
+* [AI Jobs](https://www.moaijobs.com/) - AI jobs in Machine Learning, Data Science, Research, Engineering, etc.
 
 ## Misc
 
