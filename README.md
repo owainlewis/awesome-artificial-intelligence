@@ -227,6 +227,8 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 
 ## Newsletters
 * [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
+* [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
+* [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
 
 ## Misc
 
