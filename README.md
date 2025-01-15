@@ -223,7 +223,8 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 
 * [MIT Battlecode](https://www.battlecode.org/)
 * [AI Challenge](http://aichallenge.org)
-* [AI Games](http://theaigames.com)
+* [AI Games](https://github.com/theaigames)
+* [Codabench](https://www.codabench.org/) - hundreds of open ML competitions with thousands of participants.
 
 ## Newsletters
 * [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
