@@ -137,7 +137,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, and Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
 * [FARGonautica](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
-
+* [TengineKit](https://github.com/OAID/TengineKit) - Free RealTime Face Landmarks 212 Points For Mobile App
 ## Videos
 
 * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
