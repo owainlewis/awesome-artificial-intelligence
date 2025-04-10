@@ -161,6 +161,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Deep Learning.net](https://web.archive.org/web/20201114013453/http://deeplearning.net/) - Aggregation site for DL resources
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
+* [Neptune Blog](https://neptune.ai/blog) - Learn about MLOps, ML tools, experiment tracking, and model management
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in-depth Artificial Intelligence video tutorials and courses
