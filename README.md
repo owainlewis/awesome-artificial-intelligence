@@ -237,6 +237,9 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 * [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+* [AIResources](http://coglist.com/) - Customizable Directory of AI solutions/tools
+
+
 
 ## License
 
