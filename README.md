@@ -29,6 +29,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Chat GPT](https://chat.openai.com/) ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.
 * [Gemini](https://gemini.google.com/) Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.
 * [Claude](https://www.anthropic.com/claude) Claude is a family of foundational AI models that can be used in various applications. You can talk directly with Claude at claude.ai to brainstorm ideas, analyze images, and process long documents
+* [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
 
 ### Images  
 * [Midjourney](https://www.midjourney.com/) AI image generation
