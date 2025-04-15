@@ -172,6 +172,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
 * [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 * [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
+* [Awesome AI Libraries](https://kandi.openweaver.com/explore/artificial-intelligence) - Explore a curated list of AI popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ## Organizations
 
