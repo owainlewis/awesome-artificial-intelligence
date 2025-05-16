@@ -38,6 +38,11 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
 * [Runway](https://runwayml.com/) AI video generation
 
+### Audio
+* [Suno](https://suno.com/): AI-powered tool for creating original songs from text prompts.
+* [ElevenLabs](https://elevenlabs.io/): Advanced text-to-speech (TTS) platform known for realistic voice generation.
+* [TTS Generation WebUI](https://github.com/rsxdalv/tts-generation-webui): Versatile open-source interface with access to 15+ TTS models for voice and music generation.
+
 ### Commerical Tools
 * [Taskade](https://www.taskade.com) Build, train, and deploy AI agents to automate tasks, research, and collaborate in real-time
 
