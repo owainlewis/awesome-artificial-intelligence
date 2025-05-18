@@ -40,6 +40,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 
 ### Commerical Tools
 * [Taskade](https://www.taskade.com) Build, train, and deploy AI agents to automate tasks, research, and collaborate in real-time
+* [Maxim AI](https://www.getmaxim.ai) AI Agent Simulation, Evaluation and Post Release Observability
 
 ## Courses
 * [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
