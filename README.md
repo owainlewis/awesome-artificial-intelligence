@@ -130,6 +130,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
 * [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautifully animated infographics and real-life examples. Available in various languages.
 * [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.
+* [Agent Evaluation: Understanding Agentic Systems and their Quality](https://www.getmaxim.ai/blog/ai-agent-quality-evaluation) - This blog series delves deep into AI Agent Evaluations, explaining how to build robust evaluations for Agentic Workflows enabling teams to move faster while keeping  taste at the heart of the product.
 
 ## Code
 
