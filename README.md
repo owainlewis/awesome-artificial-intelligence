@@ -174,7 +174,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
 ## Organizations
-
+* [GGUF Loader](https://github.com/GGUFloader/gguf-loader) — Lightweight, cross-platform UI app built with PySide6 for loading and chatting with GGUF models locally.
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 * [OpenAI](https://openai.com/about/)
