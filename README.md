@@ -237,6 +237,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 * [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+* [AI For Developers](https://aifordevelopers.org) - A curated list of AI agents, SDKs, coding copilots, and dev-first tools.
 
 ## License
 
