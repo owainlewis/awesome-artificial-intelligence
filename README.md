@@ -21,7 +21,8 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 11. [Journals](#journals)
 12. [Competitions](#competitions)
 13. [Newsletters](#newsletters)
-14. [Misc](#misc)
+14. [AI Startups](#ai-startups)
+15. [Misc](#misc)
 
 ## Tools
 
@@ -229,6 +230,11 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 * [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
 * [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
 * [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
+
+## AI Startups
+
+* [Taskade](https://www.taskade.com/) – Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all in a unified workspace.
+
 
 ## Misc
 
