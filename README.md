@@ -42,7 +42,6 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 #### 📖 Guides & Playbooks
 - **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
 - [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
-- [RAG Evaluation Guide (Hugging Face)](https://huggingface.co/blog/rag-evaluation) — Measuring RAG performance beyond accuracy.
 
 ---
 
