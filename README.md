@@ -61,23 +61,24 @@ Core tools, frameworks, and practices for building production-grade AI systems �
 - [JetBrains AI Assistant](https://www.jetbrains.com/ai/) — Integrated code chat/completion across JetBrains IDEs.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) — AWS-native coding assistant with cloud/resource context.
 
-##  Multimedia AI Tools (Image, Video, & Audio)
+##  🎨 Multimedia AI Tools (Image, Video, & Audio)
 
-### Image Generation
-- **ChatGPT-4o Image Generation** — Integrated image creation directly within ChatGPT; excels at prompt adherence and realism.
-- **Midjourney** — Renowned for hyper-realistic, artistic image renderings; still a powerhouse. Supports cinematic video gen.
-- **Adobe Firefly** — Part of Creative Cloud; now features Firefly Image 4/4 Ultra with ethical training and Photoshop integration.
-- **Ideogram** — Generates images with precise, legible text output.
-- **Flux** — German-developed model offering high-res, prompt-editable images; various licensing tiers.
+### 🖼 Image Generation
+- [ChatGPT-4o Image Generation](https://openai.com/chatgpt) — Integrated image creation directly within ChatGPT; excels at prompt adherence and realism.
+- [Midjourney](https://www.midjourney.com/) — Renowned for hyper-realistic, artistic image renderings; still a powerhouse. Supports cinematic video gen.
+- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Part of Creative Cloud; now features Firefly Image 4/4 Ultra with ethical training and Photoshop integration.
+- [Ideogram](https://ideogram.ai/) — Generates images with precise, legible text output.
+- [Flux](https://blackforestlabs.ai/) — German-developed model offering high-res, prompt-editable images; various licensing tiers.
   
-### Video Generation
-- **Kling** — Industry-leading video model producing highly realistic, cinematic scenes with complex motion; strong physics and camera movement simulation.  
-- **Google Veo 3** — Generates realistic videos with synchronized audio, lip-sync, and scene coherence. 
-- **Runway** — Creative video editing and generation, including motion capture and dynamic scene alteration. 
+### 🎥 Video Generation
+- [Kling](https://klingai.com/) — Industry-leading video model producing highly realistic, cinematic scenes with complex motion; strong physics and camera movement simulation.  
+- [Google Veo 3](https://deepmind.google/technologies/veo/) — Generates realistic videos with synchronized audio, lip-sync, and scene coherence. 
+- [Runway](https://runwayml.com/) — Creative video editing and generation, including motion capture and dynamic scene alteration. 
 
-### Audio & Music Generation
-- **ElevenLabs** — Lifelike text-to-speech in 70+ languages with emotional range and API access. 
-
+### 🎙 Audio & Music Generation
+- [ElevenLabs](https://elevenlabs.io/) — Lifelike text-to-speech in 70+ languages with emotional range and API access.
+- [Suno](https://suno.ai/) — AI music creation from text prompts with multi-instrument compositions.
+- [Aiva](https://www.aiva.ai/) — AI music composition for games, films, and commercial projects.
 ## 🎓 Courses
 
 **Beginner**
