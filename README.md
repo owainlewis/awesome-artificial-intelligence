@@ -7,6 +7,11 @@ Focus: **AI engineering** (RAG, agents, evals, guardrails, deploy) plus the best
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
 
+## 🛠 Practical Engineering Guides
+
+- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ One of the most practical, insight-rich resources for building AI agents. Covers design patterns, pitfalls, and tradeoffs.
+- [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
+
 ## 📚 Books
 
 **Modern & Practical**
@@ -18,6 +23,27 @@ Focus: **AI engineering** (RAG, agents, evals, guardrails, deploy) plus the best
 - [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Comprehensive AI theory (Russell & Norvig).
 - [Deep Learning](https://www.deeplearningbook.org/) — Neural networks & architectures (Goodfellow, Bengio, Courville).
 - [Reinforcement Learning: An Introduction (2nd Edition)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) — RL fundamentals (Sutton & Barto).
+
+## 💬 Tools (LLMs & Generative)
+
+**LLM Assistants**
+- [ChatGPT](https://openai.com/chatgpt/overview/) — Multimodal assistant for coding, reasoning, and tool use.
+- [Claude](https://www.anthropic.com/claude) — Long-context analysis & coding.
+- [Gemini](https://gemini.google.com/) — Google’s multimodal assistant.
+- [Perplexity](https://www.perplexity.ai/) — Answer engine with live citations.
+
+**Code & Developer Tools**
+- [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors across VS Code/JetBrains/Neovim.
+- [Claude Code](https://www.anthropic.com/claude) — Anthropic’s coding model with IDE extensions; strong long-context code understanding and edits.
+- [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits, codebase-aware chat, and inline refactors.
+- [JetBrains AI Assistant](https://www.jetbrains.com/ai/) — Integrated code chat/completion across JetBrains IDEs.
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/) — AWS-native coding assistant with cloud/resource context.
+
+**Image/Video/Audio**
+- [DALL·E 3](https://openai.com/dall-e-3) — Text-to-image generation with style control.
+- [Midjourney](https://www.midjourney.com/) — Artistic image generation.
+- [Runway](https://runwayml.com/) / [Pika](https://pika.art/) — Text-to-video generation.
+- [Whisper](https://openai.com/research/whisper) — Speech-to-text transcription.
 
 ## 🎓 Courses
 
