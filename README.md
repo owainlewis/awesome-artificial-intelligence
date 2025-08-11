@@ -32,6 +32,9 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 
 #### 📖 Guides & Playbooks
 - **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+- [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents
+- [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) - Practical guide to building AI agents from Google
+- [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
 - [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
 
 #### 🤖 Frameworks 
@@ -73,7 +76,9 @@ _Learn from the best — structured content for every level._
 
 **Focused**
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
+- [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 ---
 
