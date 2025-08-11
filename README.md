@@ -35,7 +35,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 
 #### 🤖 Frameworks 
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
-- [Google ADK](https://google.github.io/adk-docs/) - Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP support out of the box.
+- [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP support out of the box.
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
@@ -44,7 +44,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 #### 📦 Retrieval-Augmented Generation (RAG)
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
-- [Docling](https://github.com/docling-project/docling) - Great library for ingesting any kind of document for RAG ⭐
+- [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
 
 ---
 
