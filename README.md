@@ -29,21 +29,22 @@ _The foundations — these will still be valuable five years from now, even if t
 _Frameworks and design patterns for building robust, production-grade AI systems._  
 _Personal note: you don't need tons of frameworks — start with simple LLM calls and work up._
 
-#### 📦 Retrieval-Augmented Generation (RAG)
-- [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
-- [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
-- [Docling](https://github.com/docling-project/docling) - Great library for ingesting any kind of document for RAG ⭐
+#### 📖 Guides & Playbooks
+- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+- [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
 
-#### 🤖 Orchestration & Agents
+#### 🤖 Frameworks 
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
+- [Google ADK](https://google.github.io/adk-docs/) - Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP support out of the box.
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
 - [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
 
-#### 📖 Guides & Playbooks
-- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
-- [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
+#### 📦 Retrieval-Augmented Generation (RAG)
+- [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
+- [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
+- [Docling](https://github.com/docling-project/docling) - Great library for ingesting any kind of document for RAG ⭐
 
 ---
 
