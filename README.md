@@ -87,8 +87,7 @@ _Stay current with AI developments without drowning in noise._
 
 Tools for building and deploying AI applications. 
 
-### 💬 LLM Assistants
-### 💬 LLM Assistants
+### 💬 Models
 - [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
 - [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
 - [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.
