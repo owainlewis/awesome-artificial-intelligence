@@ -36,6 +36,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) - Practical guide to building AI agents from Google
 - [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
 - [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
+- [LLM Engineer Handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers
 
 #### 🤖 Frameworks 
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
