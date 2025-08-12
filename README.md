@@ -51,6 +51,10 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
 
+#### Evals 
+
+- [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals
+
 ---
 
 ### 📄 Landmark Papers
