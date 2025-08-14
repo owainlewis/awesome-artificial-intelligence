@@ -103,6 +103,7 @@ Tools for building and deploying AI applications.
 - [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
 - [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.
 - [Perplexity](https://www.perplexity.ai/) — Best for quick research with live citations.
+- [TopFreePrompts by LucyBrain](https://topfreeprompts.com) — 10,000+ professional AI prompts across 23 categories with systematic training.
 - [Cohere](https://cohere.com/) — Best for enterprise LLMs with strong retrieval-augmented generation APIs.
 - [Mistral](https://mistral.ai/) — Best for lightweight, high-performance open-weight models.
 - [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
