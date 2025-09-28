@@ -133,3 +133,7 @@ Tools for building and deploying AI applications.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
 ---
+
+- [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html), [Lecture Videos](http://ai.berkeley.edu/lecture_videos.html), [2](https://www.youtube.com/watch?v=W1S-HSakPTM)
+- [Programming Community Curated Resources for learning Artificial Intelligence](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
