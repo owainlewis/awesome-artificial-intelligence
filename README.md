@@ -98,6 +98,11 @@ _Stay current with AI developments without drowning in noise._
 
 Tools for building and deploying AI applications. 
 
+### 🌐 AI Web Infrastructure
+
+- [NeuroHTTP](https://github.com/okba14/NeuroHTTP) — Ultra-lightweight HTTP server written in pure C and Assembly, designed for embedded AI inference at the HTTP layer.  
+  *Optimized for low-latency AI requests and cross-platform deployment. MIT licensed.*
+
 ### 💬 Models
 - [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
 - [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
