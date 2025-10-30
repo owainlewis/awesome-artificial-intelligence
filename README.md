@@ -73,6 +73,7 @@ _Learn from the best — structured content for every level._
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Fast.ai — Practical Deep Learning](https://course.fast.ai/)
+- [ChatGPT 101-What is ChatGPT?](https://www.simplilearn.com/free-chatgpt-basics-course-skillup)
 
 **Intermediate / Advanced**
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
