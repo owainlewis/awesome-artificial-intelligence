@@ -121,6 +121,7 @@ Tools for building and deploying AI applications.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud.
 - [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
 - [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable images.
+- [Gempix2 (Nano Banana 2)](https://gempix2.site) — Free text-to-image generation, AI editing, and video support.
 
 #### 🎥 Video
 - [Kling](https://klingai.com/) — Cinematic, realistic video generation.
