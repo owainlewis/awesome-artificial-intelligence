@@ -85,6 +85,9 @@ _Learn from the best — structured content for every level._
 - [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
+**Interactive Learning**
+- [System Designer](https://systemdesigner.net/genai) — ML systems, MLOps, and GenAI with interactive lessons, AI tutor, and whiteboards
+
 ---
 
 ## 📰 Newsletters
