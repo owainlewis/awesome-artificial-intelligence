@@ -32,6 +32,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 
 #### 📖 Guides & Playbooks
 - **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+- **[MirrorDNA Protocol](https://github.com/MirrorDNA-Reflection-Protocol/active-mirror-identity)** — Persistent AI identity across all models (ChatGPT, Claude, Gemini). Three Laws: Truth, Vault, Mesh.
 - [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents
 - [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) - Practical guide to building AI agents from Google
 - [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
