@@ -44,7 +44,8 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
-- [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) — Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows, Python & JS SDKs.
+- [AutoGen](https://microsoft.github.io/autogen/) — Microsoft's framework for multi-agent conversation and collaboration.
 
 #### 📦 Retrieval-Augmented Generation (RAG)
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
