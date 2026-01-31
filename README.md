@@ -93,6 +93,7 @@ _Stay current with AI developments without drowning in noise._
 - [AlphaSignal](https://alphasignal.ai/)
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
+- [PulseMark](https://pulsemark.ai)
 
 ## ⚡ Tools
 
