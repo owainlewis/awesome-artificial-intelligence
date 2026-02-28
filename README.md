@@ -10,7 +10,7 @@ Focus: **AI engineering** (RAG, agents, evals, guardrails, deploy) plus the best
 
 ## 🏛 Core Resources (Evergreen)
 
-_The foundations — these will still be valuable five years from now, even if today’s tools are gone._
+_The foundations — these will still be valuable five years from now, even if today's tools are gone._
 
 ### 📚 Books
 **Modern & Practical**
@@ -44,7 +44,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
-- [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
+- [AutoGen](https://microsoft.github.io/autogen/) — Microsoft's framework for multi-agent conversation and collaboration.
 
 #### 📦 Retrieval-Augmented Generation (RAG)
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
@@ -58,11 +58,17 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 ---
 
 ### 📄 Landmark Papers
-_Research that shaped modern AI — worth reading to understand the "why" behind today’s architectures._
+_Research that shaped modern AI — worth reading to understand the "why" behind today's architectures._
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Transformer architecture.
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) — Model/data/compute scaling.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
 - [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
+
+---
+
+### 📊 Datasets
+
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) — Structured dataset tracking 96+ AI-attributed workforce displacement events (457K+ workers) across 13 countries and 13 sectors. CSV/JSON, CC-BY-4.0.
 
 ---
 
@@ -82,7 +88,7 @@ _Learn from the best — structured content for every level._
 **Focused**
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-- [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Karpathy's LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 ---
