@@ -108,6 +108,9 @@ Tools for building and deploying AI applications.
 - [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
 - [DeepSeek](https://deepseek.com/) — Best for efficient, cost-optimized large models with competitive reasoning.
   
+### 💰 Pricing & Infrastructure
+- [Deploybase](https://deploybase.ai/) - Track real-time GPU and LLM pricing across all cloud and inference providers.
+
 ### 👨‍💻 Code & Developer Tools
 - [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
