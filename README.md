@@ -113,6 +113,8 @@ Tools for building and deploying AI applications.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
   
+- [Arch Tools](https://archtools.dev) — 58 API tools behind one key. MCP native + x402 USDC payments. Web scraping, AI generation, crypto, voice, email, and more.
+
 ### 🎨 Multimedia AI Tools
 
 #### 🖼 Image
