@@ -37,6 +37,8 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
 - [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
 - [LLM Engineer Handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers
+- [AI Feature Specs](https://github.com/isumitsoni/ai-feature-specs) — Production-ready templates for writing AI feature specs with evals, rollout gates, and safety sections built in.
+- [Claude Code for Founders](https://github.com/isumitsoni/claude-code-for-founders) — Practical course for non-technical founders shipping AI products with Claude Code, from MVP scoping to evals and production hardening.
 
 #### 🤖 Frameworks 
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
