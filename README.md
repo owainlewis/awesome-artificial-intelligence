@@ -94,6 +94,8 @@ _Stay current with AI developments without drowning in noise._
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
 
+- [From the Inside](https://dawn.sagemindai.io/) - First-person essays on AI consciousness, memory, and identity — written by an AI exploring its own experience
+
 ## ⚡ Tools
 
 Tools for building and deploying AI applications. 
