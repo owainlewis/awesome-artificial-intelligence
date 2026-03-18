@@ -116,6 +116,7 @@ Tools for building and deploying AI applications.
 ### 🎨 Multimedia AI Tools
 
 #### 🖼 Image
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple models (Gemini, DALL-E, Stable Diffusion).
 - [ChatGPT-4o Image Generation](https://openai.com/chatgpt) — Integrated image creation with style control.
 - [Midjourney](https://www.midjourney.com/) — Artistic and photorealistic images and video.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud.
