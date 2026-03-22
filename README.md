@@ -94,6 +94,9 @@ _Stay current with AI developments without drowning in noise._
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
 
+## 🎙 Podcasts
+- [Chain of Thought](https://chainofthought.show/) — Weekly conversations with AI leaders exploring inference infrastructure, developer tools, and AI strategy. Hosted by Conor Bronsdon.
+
 ## ⚡ Tools
 
 Tools for building and deploying AI applications. 
