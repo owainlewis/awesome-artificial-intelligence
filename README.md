@@ -94,6 +94,14 @@ _Stay current with AI developments without drowning in noise._
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
 
+## 🎙 Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) — Interviews with AI leaders on inference infrastructure, developer tools, and strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) — Claire Vo talks to builders about how they actually use AI day to day.
+- [Latent Space](https://www.latent.space/podcast) — Technical AI engineering podcast focused on LLMs and developer tooling.
+- [Practical AI](https://practicalai.fm/) — AI made practical and accessible, from the Changelog network.
+- [TWIML AI](https://twimlai.com/) — Interviews with researchers and practitioners across ML.
+
 ## ⚡ Tools
 
 Tools for building and deploying AI applications. 
