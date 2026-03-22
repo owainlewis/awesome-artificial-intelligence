@@ -96,7 +96,7 @@ _Stay current with AI developments without drowning in noise._
 
 ## 🎙 Podcasts
 - [Chain of Thought](https://chainofthought.show/) — Weekly conversations with AI leaders exploring inference infrastructure, developer tools, and AI strategy.
-- [How I AI](https://www.youtube.com/@howiai) — Claire Vo interviews builders and operators using AI to change how they work.
+- [How I AI](https://www.lennysnewsletter.com/s/how-i-ai) — Claire Vo interviews builders and operators on how they actually use AI in their work. Part of the Lenny's Podcast network.
 - [Latent Space](https://www.latent.space/podcast) — Technical deep dives into AI engineering, LLMs, and the developer tooling ecosystem.
 - [Practical AI](https://practicalai.fm/) — Making artificial intelligence practical, productive, and accessible to everyone.
 
