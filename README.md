@@ -95,7 +95,10 @@ _Stay current with AI developments without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ## 🎙 Podcasts
-- [Chain of Thought](https://chainofthought.show/) — Weekly conversations with AI leaders exploring inference infrastructure, developer tools, and AI strategy. Hosted by Conor Bronsdon.
+- [Chain of Thought](https://chainofthought.show/) — Weekly conversations with AI leaders exploring inference infrastructure, developer tools, and AI strategy.
+- [How I AI](https://www.youtube.com/@howiai) — Claire Vo interviews builders and operators using AI to change how they work.
+- [Latent Space](https://www.latent.space/podcast) — Technical deep dives into AI engineering, LLMs, and the developer tooling ecosystem.
+- [Practical AI](https://practicalai.fm/) — Making artificial intelligence practical, productive, and accessible to everyone.
 
 ## ⚡ Tools
 
