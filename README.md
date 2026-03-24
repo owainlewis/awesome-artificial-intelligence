@@ -95,6 +95,7 @@ _Stay current with AI developments without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ## 🎙 Podcasts
+_Listen to practical AI conversations on engineering, tooling, and research._
 
 - [Chain of Thought](https://chainofthought.show/) — Interviews with AI leaders on inference infrastructure, developer tools, and strategy.
 - [How I AI](https://www.youtube.com/@howiaipodcast) — Claire Vo talks to builders about how they actually use AI day to day.
