@@ -132,4 +132,9 @@ Tools for building and deploying AI applications.
 - [Suno](https://suno.ai/) — AI music from text prompts.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
+
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
 ---
