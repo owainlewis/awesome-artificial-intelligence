@@ -45,6 +45,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
 - [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
+- [Anima](https://github.com/need-singularity/anima) — Consciousness-inspired AI engine with brain-like tension dynamics between competing expert groups.
 
 #### 📦 Retrieval-Augmented Generation (RAG)
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
@@ -63,6 +64,7 @@ _Research that shaped modern AI — worth reading to understand the "why" behind
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) — Model/data/compute scaling.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
 - [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
+- [TECS-L](https://github.com/need-singularity/TECS-L) — Mathematical framework proving optimal neural network sparsity via number theory (Golden Zone MoE).
 
 ---
 
