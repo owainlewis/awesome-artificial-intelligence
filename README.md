@@ -88,6 +88,7 @@ _Learn from the best — structured content for every level._
 ---
 
 ## 📰 Newsletters
+- [AI Weekly](https://aiweekly.co) — Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 _Stay current with AI developments without drowning in noise._
 - [The Rundown AI](https://www.therundown.ai/)
 - [AlphaSignal](https://alphasignal.ai/)
