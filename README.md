@@ -133,3 +133,6 @@ Tools for building and deploying AI applications.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
 ---
+
+
+*   [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation library using GANs, Diffusion Models, and LLMs with adversarial filtering, privacy metrics, constraints, and sklearn Pipeline integration.
