@@ -4,20 +4,20 @@ A curated collection of **must-use, actively maintained resources** for building
 
 Focus: **AI engineering** (RAG, agents, evals, guardrails, deploy) plus the best books, guides, papers, and a *carefully selected* set of tools.
 
-![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
+![AI](https://media.giphy.com/media/jeAQY9FfROX6/giphy.gif)
 
 ---
 
-## 🏛 Core Resources (Evergreen)
+## 🏆 Core Resources (Evergreen)
 
-_The foundations — these will still be valuable five years from now, even if today’s tools are gone._
+_The foundations — these will still be valuable five years from now, even if today's tools are gone._
 
 ### 📚 Books
 **Modern & Practical**
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).
 - [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — End-to-end AI product building (Chip Huyen).
-- [100 Page Language Models Book](https://www.thelmbook.com/) — This book guides you through the evolution of language models, starting from machine learning fundamentals.
+- [100 Page Language Models Book](https://www.thellmbook.com/) — This book guides you through the evolution of language models, starting from machine learning fundamentals.
 
 **Foundational**
 - [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Comprehensive AI theory (Russell & Norvig).
@@ -26,30 +26,30 @@ _The foundations — these will still be valuable five years from now, even if t
 
 ---
 
-### 🏗 AI Engineering
+### 🏗️ AI Engineering
 _Frameworks and design patterns for building robust, production-grade AI systems._  
 _Personal note: you don't need tons of frameworks — start with simple LLM calls and work up._
 
 #### 📖 Guides & Playbooks
-- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+- **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — 🪄 Patterns, pitfalls, and tradeoffs for designing AI agents.
 - [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents
 - [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) - Practical guide to building AI agents from Google
 - [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
 - [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
 - [LLM Engineer Handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers
 
-#### 🤖 Frameworks 
+#### 🏗️ Frameworks 
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
-- [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.
+- [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + E2A + MCP.
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
-- [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
+- [AutoGen](https://microsoft.github.io/autogen/) — Microsoft's framework for multi-agent conversation and collaboration.
 
-#### 📦 Retrieval-Augmented Generation (RAG)
+#### 🏭 Retrieval-Augmented Generation (RAG)
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
-- [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+- [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG 🪄
 
 #### Evals 
 
@@ -57,16 +57,15 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 
 ---
 
-### 📄 Landmark Papers
-_Research that shaped modern AI — worth reading to understand the "why" behind today’s architectures._
+### 📜 Landmark Papers
+_Research that shaped modern AI — worth reading to understand the "why" behind today's architectures._
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Transformer architecture.
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) — Model/data/compute scaling.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
 - [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
-
 ---
 
-## 🎓 Courses
+## 🏫 Courses
 _Learn from the best — structured content for every level._
 
 **Beginner**
@@ -81,9 +80,9 @@ _Learn from the best — structured content for every level._
 
 **Focused**
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
-- [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-- [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-- [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTRqaXQWi4GmV0)
+- [Karpathy's LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI2s)
+- [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI2s)
 
 ---
 
@@ -94,11 +93,11 @@ _Stay current with AI developments without drowning in noise._
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
 
-## ⚡ Tools
+## 🛠️ Tools
 
 Tools for building and deploying AI applications. 
 
-### 💬 Models
+### 🤖 Models
 - [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
 - [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
 - [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.
@@ -115,21 +114,23 @@ Tools for building and deploying AI applications.
   
 ### 🎨 Multimedia AI Tools
 
-#### 🖼 Image
+#### 🖼️ Image
 - [ChatGPT-4o Image Generation](https://openai.com/chatgpt) — Integrated image creation with style control.
 - [Midjourney](https://www.midjourney.com/) — Artistic and photorealistic images and video.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud.
 - [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
 - [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable images.
 
-#### 🎥 Video
+#### 🎬 Video
 - [Kling](https://klingai.com/) — Cinematic, realistic video generation.
 - [Google Veo 3](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
 - [Runway](https://runwayml.com/) — Video editing + generation.
 
-#### 🎙 Audio
+#### 🔊 Audio
 - [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech.
 - [Suno](https://suno.ai/) — AI music from text prompts.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
+### 📋 Directories & Resources
+- [AIfolio.cz](https://aifolio.cz) — Curated directory of 60+ AI tools in Czech language. Categorized by type (GPT-type, Image generators, Video, Code, etc.), with detailed tool profiles and affiliate links.
 ---
