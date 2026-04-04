@@ -82,6 +82,7 @@ _Learn from the best — structured content for every level._
 **Focused**
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [LearnAI](https://uselearnai.com/chat?topic=ml) — AI-powered personalized learning platform that generates custom curricula for AI/ML and teaches through conversation.
 - [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
