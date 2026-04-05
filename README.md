@@ -112,6 +112,7 @@ Tools for building and deploying AI applications.
 - [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
+- [Hashgraph Online](https://hol.org) — Trust engine for the agentic internet. Verifiable agent identity (UAIDs), trustless P2P communication (HCS-10), and a registry of 187K+ verified AI agents.
   
 ### 🎨 Multimedia AI Tools
 
