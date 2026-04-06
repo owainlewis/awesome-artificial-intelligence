@@ -12,6 +12,7 @@ Focus: **AI engineering** (RAG, agents, evals, guardrails, deploy) plus the best
 
 _The foundations — these will still be valuable five years from now, even if today’s tools are gone._
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ### 📚 Books
 **Modern & Practical**
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).
