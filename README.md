@@ -113,6 +113,7 @@ Tools for building and deploying AI applications.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
   
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=owainlewis_awesome-artificial-intelligence) - Follow developers on GitHub and get a feed of what they star and build.
 ### 🎨 Multimedia AI Tools
 
 #### 🖼 Image
