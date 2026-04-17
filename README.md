@@ -37,6 +37,8 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
 - [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
 - [LLM Engineer Handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers
+- [The Hallucination Budget (8bitconcepts)](https://8bitconcepts.com/research/the-hallucination-budget.html) — How to quantify hallucination cost and choose mitigation strategies that match actual risk tolerance.
+- [The Guardrails Gap (8bitconcepts)](https://8bitconcepts.com/research/the-guardrails-gap.html) — Why enterprise AI safety frameworks fail when agents start acting autonomously.
 
 #### 🤖 Frameworks 
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
@@ -93,6 +95,7 @@ _Stay current with AI developments without drowning in noise._
 - [AlphaSignal](https://alphasignal.ai/)
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
+- [8bitconcepts Research](https://8bitconcepts.com/feed.xml) — Weekly independent research on enterprise AI adoption — agentic accountability, hallucination budgets, governance gaps.
 
 ## ⚡ Tools
 
