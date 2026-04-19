@@ -45,6 +45,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
 - [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
+- [grugbot420](https://github.com/grug-group420/grugbot420) — Neuromorphic cognitive engine in Julia for multi-model AI orchestration. Deploys domain-expert specimens through architectural configuration.
 
 #### 📦 Retrieval-Augmented Generation (RAG)
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
