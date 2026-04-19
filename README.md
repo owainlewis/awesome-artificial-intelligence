@@ -108,6 +108,10 @@ Tools for building and deploying AI applications.
 - [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
 - [DeepSeek](https://deepseek.com/) — Best for efficient, cost-optimized large models with competitive reasoning.
   
+### 🔌 APIs & Services
+- [Text-Generator.io](https://text-generator.io) — Unified text, vision, and speech API with privacy-first design.
+- [OpenPaths](https://openpaths.io) — Open source model router with universal API for LLMs.
+
 ### 👨‍💻 Code & Developer Tools
 - [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
