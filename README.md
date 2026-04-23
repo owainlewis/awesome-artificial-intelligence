@@ -96,7 +96,12 @@ _Stay current with AI developments without drowning in noise._
 
 ## ⚡ Tools
 
-Tools for building and deploying AI applications. 
+Tools for building and deploying AI applications.
+
+### 📚 Curated Lists & Directories
+- [Awesome AI Tools](https://github.com/formatho/awesome-ai-tools) — 350+ AI tools across 9 categories, updated every 6 hours. Includes agents, LLMs, developer tools, image generation, audio, productivity, research tools, video, and open-source models. Unique freshness indicators show tool recency.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) — Comprehensive ML frameworks, libraries, and software collection.
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) — Deep learning frameworks and libraries. 
 
 ### 💬 Models
 - [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
