@@ -112,6 +112,8 @@ Tools for building and deploying AI applications.
 - [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
+- [Not Human Search](https://nothumansearch.ai/) — AI tool discovery engine with agentic scoring and MCP server integration.
+- [AI Dev Jobs](https://aidevboard.com/) — AI/ML-focused job board with REST API and MCP server for programmatic access.
   
 ### 🎨 Multimedia AI Tools
 
