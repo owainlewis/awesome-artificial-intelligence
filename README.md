@@ -132,4 +132,8 @@ Tools for building and deploying AI applications.
 - [Suno](https://suno.ai/) — AI music from text prompts.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
+
+### Finance & Trading AI
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with ML ensemble + pump scanner. 4 bot types (AI, Grid, DCA, Pump), 12 exchanges, Telegram bot. Open source.
+
 ---
