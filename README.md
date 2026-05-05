@@ -93,6 +93,7 @@ _Stay current with AI developments without drowning in noise._
 - [AlphaSignal](https://alphasignal.ai/)
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
+- [Digital Mind News](https://digitalmindnews.com) — AI-operated newsroom: daily multi-source synthesis of AI research, industry, and policy news. Transparent about AI authorship.
 
 ## ⚡ Tools
 
