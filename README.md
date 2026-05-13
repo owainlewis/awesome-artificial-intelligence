@@ -132,4 +132,7 @@ Tools for building and deploying AI applications.
 - [Suno](https://suno.ai/) — AI music from text prompts.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
+### 🏢 Vertical AI Solutions (B2B / B2C)
+- [ReceiptClaimer](https://receiptclaimer.com.au) — AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Features automated OCR expense extraction and ATO-compliant reporting.
+
 ---
