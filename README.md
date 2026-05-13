@@ -50,6 +50,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+- [Dakera](https://github.com/dakera-ai/dakera-deploy) — Production-ready persistent memory layer for AI agents: hybrid BM25 + vector retrieval, temporal reasoning, and integrations with LangChain and LlamaIndex.
 
 #### Evals 
 
