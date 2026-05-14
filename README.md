@@ -87,6 +87,7 @@ _Learn from the best — structured content for every level._
 
 ---
 
+- [fast.ai](https://www.fast.ai/) - Practical deep learning courses for coders.
 ## 📰 Newsletters
 _Stay current with AI developments without drowning in noise._
 - [The Rundown AI](https://www.therundown.ai/)
