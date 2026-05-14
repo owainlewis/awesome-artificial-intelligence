@@ -54,6 +54,8 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 #### Evals 
 
 - [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing framework for LLM and AI agent applications. Auto-instruments 20+ frameworks (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors
 
 ---
 
