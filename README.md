@@ -98,15 +98,21 @@ _Stay current with AI developments without drowning in noise._
 
 Tools for building and deploying AI applications. 
 
-### 💬 Models
-- [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
-- [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
-- [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.
-- [Perplexity](https://www.perplexity.ai/) — Best for quick research with live citations.
-- [Cohere](https://cohere.com/) — Best for enterprise LLMs with strong retrieval-augmented generation APIs.
+### 💬 Language Models
+
+The major frontier labs. For live benchmarks, pricing, and the latest model versions, see [OpenRouter](https://openrouter.ai/models), [LMArena](https://lmarena.ai/leaderboard), and [Artificial Analysis](https://artificialanalysis.ai/).
+
+- [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general reasoning, tool use, and the broadest ecosystem.
+- [Claude](https://www.anthropic.com/claude) — Best for long-context analysis, coding, and structured thinking.
+- [Gemini](https://gemini.google.com/) — Best for multimodal tasks and Google ecosystem integration.
+- [Grok](https://x.ai/) — Best for real-time information via X and very long context.
+- [Llama](https://www.llama.com/) — Best open-weight family for self-hosting and fine-tuning.
 - [Mistral](https://mistral.ai/) — Best for lightweight, high-performance open-weight models.
+- [DeepSeek](https://deepseek.com/) — Best for cost-efficient reasoning with open weights.
 - [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
-- [DeepSeek](https://deepseek.com/) — Best for efficient, cost-optimized large models with competitive reasoning.
+- [Kimi](https://www.kimi.com/) — Best for long-context instruction following.
+- [GLM](https://chatglm.cn/) — Frontier-tier Chinese model with open weights.
+- [Cohere](https://cohere.com/) — Best for enterprise LLMs with strong retrieval-augmented generation APIs.
   
 ### 👨‍💻 Code & Developer Tools
 - [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
