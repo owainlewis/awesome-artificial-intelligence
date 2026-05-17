@@ -95,13 +95,18 @@ _For live capability comparison, see [Terminal-Bench](https://www.tbench.ai/lead
 
 - [Claude Code](https://code.claude.com/) — Anthropic's CLI agent; multi-file codebase refactoring with long context.
 - [Codex CLI](https://github.com/openai/codex) — OpenAI's Rust-based local terminal agent; lightweight and fast.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Google's official open-source terminal agent; long-context repo exploration.
 - [Cursor CLI](https://cursor.com/cli) — Cursor's terminal-native agent with sandboxed permissions.
 - [Aider](https://aider.chat/) — Git-integrated pair programming with surgical edits and undo.
 - [OpenCode](https://opencode.ai/) — Provider-agnostic terminal harness with a strong TUI.
+- [OpenHands](https://docs.all-hands.dev/) — Open-source autonomous SWE platform; browser + shell + editor loop.
+- [Cline](https://github.com/cline/cline) — Open-source agentic IDE extension with strong multi-provider support.
+- [Continue](https://www.continue.dev/) — Open-source IDE + CLI assistant with source-controlled rules.
 - [Goose](https://block.github.io/goose/) — Block's extensible, MCP-driven local agent.
-- [Cline CLI](https://github.com/cline/cline) — Parallel agent execution with git worktrees; headless CI-friendly.
 - [Factory Droid](https://factory.ai/product/cli) — Benchmark-leading multi-model harness with BYOK local execution.
+- [Amp](https://ampcode.com/) — Sourcegraph's commercial agentic coding tool with strong product UX.
 - [Mistral Vibe](https://mistral.ai/products/vibe) — Mistral's agentic coding CLI, powered by Devstral.
+- [Qwen Code](https://github.com/QwenLM/qwen-code) — Alibaba's terminal coding agent, optimized for Qwen models.
 - [Pi](https://pi.dev/) — Highly customizable terminal harness; minimal base prompt, extension-driven.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
 - [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
