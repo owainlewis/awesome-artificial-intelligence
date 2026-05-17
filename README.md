@@ -15,14 +15,20 @@ _The foundations — these will still be valuable five years from now, even if t
 ### 📚 Books
 **Modern & Practical**
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).
-- [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — End-to-end AI product building (Chip Huyen).
-- [100 Page Language Models Book](https://www.thelmbook.com/) — This book guides you through the evolution of language models, starting from machine learning fundamentals.
+- [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) — Transformers in raw PyTorch, layer by layer (Sebastian Raschka).
+- [Hands-On Large Language Models](https://www.llm-book.com/) — Visual + practical guide to LLM applications (Jay Alammar, Maarten Grootendorst).
+- [LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079) — Production LLMOps: fine-tuning, quantization, serving (Labonne, Iusztin).
+- [The 100-Page Language Models Book](https://www.thelmbook.com/) — Concise, math-grounded path from n-grams to transformers (Andriy Burkov).
+- [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
 
 **Foundational**
-- [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Comprehensive AI theory (Russell & Norvig).
-- [Deep Learning](https://www.deeplearningbook.org/) — Neural networks & architectures (Goodfellow, Bengio, Courville).
-- [Reinforcement Learning: An Introduction (2nd Edition)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) — RL fundamentals (Sutton & Barto).
+- [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — The canonical AI theory text (Russell, Norvig).
+- [Deep Learning](https://www.deeplearningbook.org/) — Mathematical foundations of neural networks (Goodfellow, Bengio, Courville).
+- [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) — Bishop's 2024 update; probability-grounded modern DL (Bishop & Bishop).
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/) — Math + intuition + Python notebooks (Simon Prince).
+- [Speech and Language Processing (3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/) — The NLP reference, kept current through the deep learning era (Jurafsky, Martin).
+- [Reinforcement Learning: An Introduction (2nd Edition)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) — RL foundations (Sutton, Barto).
 
 ---
 
