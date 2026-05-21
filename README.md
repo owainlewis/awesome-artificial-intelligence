@@ -69,6 +69,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 
 ### Frameworks
 - [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
+- [EasyClaw](https://easyclaw.com/) – Open‑source AI browser automation framework for automating repetitive web workflows and agent tasks using natural language, with low‑code workflow building and native LLM agent integration.
 - [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.
 - [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
