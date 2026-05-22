@@ -152,6 +152,7 @@ _Live benchmarks, pricing, and the latest model versions._
 - [OpenRouter](https://openrouter.ai/models) — Unified API + live pricing across ~300 models.
 - [LMArena](https://lmarena.ai/leaderboard) — Human-preference Elo rankings for text, image, and video.
 - [Artificial Analysis](https://artificialanalysis.ai/) — Speed, price, and quality benchmarks across providers.
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) — Structured YAML catalog of 4,587+ models across 95 providers with pricing, context windows, and capabilities. Interactive catalog at https://i-need-token.github.io/ai-models/
 
 ---
 
