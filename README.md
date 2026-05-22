@@ -45,6 +45,7 @@ _Deep, durable knowledge — still valuable five years from now._
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Google DeepMind — Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [Karpathy — Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Landmark Papers
 _Research that shaped modern AI — worth reading to understand the "why" behind today's architectures._
