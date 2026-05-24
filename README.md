@@ -163,5 +163,5 @@ _Stay current without drowning in noise._
 - [AlphaSignal](https://alphasignal.ai/)
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
-
+- [NeuralPress](https://neuralpress.app) — AI-focused blog covering LLMs, machine learning, tools, and ethics.
 ---
