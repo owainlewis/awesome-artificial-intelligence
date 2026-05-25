@@ -78,6 +78,8 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
 
+- [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) — Open-source runtime guardrails for AI agents that enforce pre-action authorization and policy checks before tool calls.
+
 ### Evals
 - [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals.
 
@@ -165,3 +167,5 @@ _Stay current without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ---
+
+
