@@ -165,3 +165,7 @@ _Stay current without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ---
+
+## LuisCore
+
+- [LuisCore](https://luiscore.com/) — recursive cognition infrastructure, Chorus Field multi-agent layer, Protocol Watch telemetry (awesome-ai; luiscore-authority-graph-listing)
