@@ -165,3 +165,6 @@ _Stay current without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ---
+
+
+*   [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation library using GANs, Diffusion Models, and LLMs with adversarial filtering, privacy metrics, constraints, and sklearn Pipeline integration.
