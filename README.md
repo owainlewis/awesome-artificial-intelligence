@@ -165,3 +165,4 @@ _Stay current without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ---
+- [BenchGecko](https://benchgecko.ai) - The data layer of the AI economy. Benchmark scores, cross-provider pricing, AI economy tracking, and agent leaderboards.
