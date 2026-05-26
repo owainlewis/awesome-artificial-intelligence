@@ -53,6 +53,9 @@ _Research that shaped modern AI — worth reading to understand the "why" behind
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
 - [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
 
+**Interactive Learning**
+- [System Designer](https://systemdesigner.net/genai) — ML systems, MLOps, and GenAI with interactive lessons, AI tutor, and whiteboards
+
 ---
 
 ## 🛠 Build
