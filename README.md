@@ -75,6 +75,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
 - [AutoGen](https://microsoft.github.io/autogen/) — Microsoft's framework for multi-agent conversation and collaboration.
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
+- [NERV](https://github.com/juanmanueldaza/nerv) — Minimalist agent harness powered by Spec-Driven Development (SDD). Multi-agent orchestration with A2A protocol, persistent ChromaDB memory, and CLI scaffolding. Built for steerability, not complexity.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
 
