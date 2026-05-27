@@ -77,6 +77,7 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 
 - [Pydantic AI](https://ai.pydantic.dev/): Typed agent development built around Pydantic.
 - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview): Low-level orchestration for long-running, stateful agents.
+- [n3rv](https://github.com/juanmanueldaza/n3rv): Restraint-oriented agent harness for opencode — Spec-Driven Development, A2A hub, dual-store memory (ChromaDB + SQLite), 14 agent skills, 5 MCP servers, 10 sub-agents. 725+ PyPI installs. Hermes Agent memory provider plugin available.
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/): A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration.
 - [Google Agent Development Kit](https://google.github.io/adk-docs/): Google's framework for developing and evaluating agents.
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/): Microsoft's successor to AutoGen and Semantic Kernel for agents and graph-based workflows.
