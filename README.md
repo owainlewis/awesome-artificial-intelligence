@@ -60,6 +60,7 @@ _The toolchain for building with AI._
 _Personal note: you don't need tons of frameworks — start with simple LLM calls and work up._
 
 ### Guides & Playbooks
+- [Agent Critiq](https://agentcritiq.com) - A curated, independent comparison engine and verified directory for modern AI agents and developer assistants.
 - **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
 - [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents.
 - [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) — Practical guide to building AI agents from Google.
