@@ -146,6 +146,7 @@ The major frontier labs.
 ### 🎙 Audio
 - [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech and voice cloning.
 - [Suno](https://suno.ai/) — AI music from text prompts.
+- [FunASR](https://github.com/modelscope/FunASR) — Industrial-grade speech recognition toolkit. 50+ languages, built-in VAD, punctuation, speaker diarization, and emotion detection. OpenAI-compatible API.
 
 ### 📊 Compare
 _Live benchmarks, pricing, and the latest model versions._
