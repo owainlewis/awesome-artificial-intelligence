@@ -86,6 +86,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
 
 ---
+- [BrainTube](https://www.brain-tube.com) - Turn videos, articles, and web content into a searchable knowledge base that connects to every AI tool you use via MCP server and REST APIs
 
 ## 🤖 Agents
 _Harnesses that turn LLMs into autonomous workers. The model is swappable; the harness is the product._
