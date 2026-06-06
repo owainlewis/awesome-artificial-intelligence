@@ -110,6 +110,7 @@ _For live capability comparison, see [Terminal-Bench](https://www.tbench.ai/lead
 - [Pi](https://pi.dev/) — Highly customizable terminal harness; minimal base prompt, extension-driven.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
 - [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Free open-source monitoring dashboard for OpenClaw AI agents; token usage, session tracking, 7-day trends, multi-model support.
 
 ---
 
