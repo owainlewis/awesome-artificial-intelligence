@@ -163,5 +163,6 @@ _Stay current without drowning in noise._
 - [AlphaSignal](https://alphasignal.ai/)
 - [Superhuman AI](https://www.superhuman.ai/)
 - [AI Engineer](https://newsletter.owainlewis.com)
+- [DiamantAI](https://diamantai.substack.com)
 
 ---
