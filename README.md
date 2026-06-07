@@ -20,6 +20,7 @@ _Deep, durable knowledge — still valuable five years from now._
 - [LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079) — Production LLMOps: fine-tuning, quantization, serving (Labonne, Iusztin).
 - [The 100-Page Language Models Book](https://www.thelmbook.com/) — Concise, math-grounded path from n-grams to transformers (Andriy Burkov).
 - [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
+- [RAG Made Simple](https://diamant-ai.com/rag-made-simple) - Visual, code-free guide to 22 retrieval-augmented generation techniques via diagrams and analogies (Nir Diamant).
 
 **Foundational**
 - [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — The canonical AI theory text (Russell, Norvig).
