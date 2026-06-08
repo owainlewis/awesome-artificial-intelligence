@@ -111,6 +111,11 @@ _For live capability comparison, see [Terminal-Bench](https://www.tbench.ai/lead
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
 - [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
 
+### Infrastructure & Trust
+_Verify agent identity and reputation before granting access or processing payments._
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for AI agents on Solana. Score agent wallets, run preflight checks, and verify identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ---
 
 ## 🧠 Models
