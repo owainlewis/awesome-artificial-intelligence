@@ -35,6 +35,7 @@ _Deep, durable knowledge — still valuable five years from now._
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Fast.ai — Practical Deep Learning](https://course.fast.ai/)
+- [AI School — Free AI & ML Courses](https://lillytechsystems.com/ai-school/)
 
 **Intermediate / Advanced**
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
