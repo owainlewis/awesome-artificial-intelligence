@@ -142,6 +142,7 @@ The major frontier labs.
 - [Google Veo](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
 - [Runway](https://runwayml.com/) — Video editing + generation with granular creative control.
 - [Kling](https://klingai.com/) — Cinematic, realistic video generation.
+- [Vorla.ai](https://www.vorla.ai) - All-in-one AI visual studio integrating Kling 3.0, Seedance 2.0, and GPT Image 2 with chat-based editing workflow.
 
 ### 🎙 Audio
 - [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech and voice cloning.
