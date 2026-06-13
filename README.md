@@ -77,6 +77,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+- [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) — Patented Cascade MoE neural network with shared neuron pool. CPU-only, zero catastrophic forgetting, 18ms inference, 10,800+ experts.
 
 ### Evals
 - [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals.
@@ -165,3 +166,4 @@ _Stay current without drowning in noise._
 - [AI Engineer](https://newsletter.owainlewis.com)
 
 ---
+
