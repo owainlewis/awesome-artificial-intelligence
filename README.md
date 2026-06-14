@@ -80,6 +80,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 
 ### Evals
 - [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals.
+- [Future AGI](https://github.com/future-agi/future-agi) — Open-source platform for evaluating, tracing, and guardrailing LLM and agent apps; 70+ metrics and LLM-as-judge.
 
 ### IDEs
 - [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
