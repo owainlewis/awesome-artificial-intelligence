@@ -137,6 +137,7 @@ The major frontier labs.
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud; commercial-safe.
 - [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
 - [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable, open-weight images.
+- [Seedream AI Studio](https://seedream4.video) — AI image generation using Seedream 5.0/4.5/4.0 models with one-click Kling 2.1 video animation. Free tier available.
 
 ### 🎥 Video
 - [Google Veo](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
