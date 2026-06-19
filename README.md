@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/owainlewis-awesome-artificial-intelligence-badge.png)](https://mseep.ai/app/owainlewis-awesome-artificial-intelligence)
+
 # Awesome Artificial Intelligence
 
 A curated collection of **must-use, actively maintained resources** for building and shipping AI systems.
