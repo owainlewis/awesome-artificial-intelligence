@@ -77,6 +77,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+- [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) — Production-grade tools and best practices for building scalable RAG systems.
 
 ### Evals
 - [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals.
