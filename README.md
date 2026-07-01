@@ -77,6 +77,8 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
 - [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
 - [Docling](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+- [MCP-Plugin-dotnet](https://github.com/IvanMurzak/MCP-Plugin-dotnet) — Open-source .NET library/SDK that turns any .NET application into an MCP server.
+- [ReflectorNet](https://github.com/IvanMurzak/ReflectorNet) — Open-source .NET reflection toolkit for AI-driven scenarios.
 
 ### Evals
 - [OpenAI Evals](https://github.com/openai/evals) — OpenAI's framework for writing evals.
@@ -110,6 +112,9 @@ _For live capability comparison, see [Terminal-Bench](https://www.tbench.ai/lead
 - [Pi](https://pi.dev/) — Highly customizable terminal harness; minimal base prompt, extension-driven.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
 - [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) — Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) — Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 
 ---
 
