@@ -152,6 +152,8 @@ _Live benchmarks, pricing, and the latest model versions._
 - [OpenRouter](https://openrouter.ai/models) — Unified API + live pricing across ~300 models.
 - [LMArena](https://lmarena.ai/leaderboard) — Human-preference Elo rankings for text, image, and video.
 - [Artificial Analysis](https://artificialanalysis.ai/) — Speed, price, and quality benchmarks across providers.
+- [AI Progress Tracker](https://aiprogresstracker.org) - Sourced, auto-updated charts of AI benchmark
+  progress, research/market trends, and an AI news feed. Free, no signup.
 
 ---
 
