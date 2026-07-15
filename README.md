@@ -110,6 +110,7 @@ _For live capability comparison, see [Terminal-Bench](https://www.tbench.ai/lead
 - [Pi](https://pi.dev/) — Highly customizable terminal harness; minimal base prompt, extension-driven.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
 - [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
+- [Tura](https://github.com/Tura-AI/tura) — Local-first open-source Rust agent with CLI, TUI, and GUI interfaces, checkpoints, verification, and reproducible benchmarks.
 
 ---
 
