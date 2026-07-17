@@ -2,6 +2,8 @@
 
 An opinionated, actively maintained collection of resources for software developers learning to build and ship generative AI and agentic systems.
 
+![Artificial intelligence](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
+
 This list is for developers who want to:
 
 - understand the foundations behind modern AI systems;
@@ -9,12 +11,16 @@ This list is for developers who want to:
 - evaluate, observe, and deploy AI systems in production;
 - use coding agents to improve software engineering work.
 
-This is not a comprehensive directory of AI products. Each category contains up to 10 resources selected for technical depth, practical value, maintenance, and a distinct reason to use it.
+This is not a comprehensive directory of AI products. Every entry must clear an absolute quality bar for technical depth, practical value, evidence, and distinctiveness. Categories are not quotas, and a short category is better than one padded with weak choices.
+
+The list is reviewed weekly by an evidence-backed automation that proposes small changes for human review. See [how resources are evaluated](CURATION.md).
 
 ## Learn
 
 ### Books
 
+- [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/): The broad reference for classical AI, including search, reasoning, planning, learning, and robotics.
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf): Sutton and Barto's foundational treatment of reinforcement learning concepts and algorithms.
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Scalable, maintainable machine learning systems by Chip Huyen.
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/): Building applications with foundation models by Chip Huyen.
 - [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch): Implement transformers in PyTorch with Sebastian Raschka.
@@ -42,8 +48,14 @@ This is not a comprehensive directory of AI products. Each category contains up 
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Introduced the Transformer architecture.
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361): Explored relationships between model performance, data, and compute.
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556): Showed how model size and training data should scale together under a compute budget.
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): Demonstrated in-context learning at scale.
+- [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401): Combined parametric language models with external retrieval for knowledge-intensive tasks.
+- [LoRA](https://arxiv.org/abs/2106.09685): Introduced low-rank adaptation for parameter-efficient model fine-tuning.
+- [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155): Established the instruction tuning and RLHF recipe used by InstructGPT.
+- [ReAct](https://arxiv.org/abs/2210.03629): Combined reasoning traces with actions for tool-using language-model agents.
 - [Constitutional AI](https://arxiv.org/abs/2212.08073): A method for training helpful and harmless AI assistants using written principles.
+- [Direct Preference Optimization](https://arxiv.org/abs/2305.18290): Reframed preference alignment as a simple classification objective without explicit reward modelling.
 
 ## Build AI systems
 
@@ -51,23 +63,29 @@ This is not a comprehensive directory of AI products. Each category contains up 
 
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents): Anthropic's practical patterns and tradeoffs for agentic systems.
 - [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): OpenAI's guide to models, tools, instructions, orchestration, and guardrails.
-- [Agents](https://www.kaggle.com/whitepaper-agents): Google's technical introduction to agent architectures.
-- [Agents Companion](https://www.kaggle.com/whitepaper-agent-companion): Google's companion guide with implementation examples.
 
 ### LLM application engineering
 
 - [OpenAI Cookbook](https://cookbook.openai.com/): Code examples for structured outputs, tool use, retrieval, evals, and other LLM application patterns.
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview): Techniques for defining success criteria, testing prompts, and improving model behaviour.
+- [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents): How to select, structure, and manage the context available to long-running agents.
+- [12-Factor Agents](https://github.com/humanlayer/12-factor-agents): Practical principles for building controllable LLM applications around deterministic software.
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/): Risks and mitigations for developing and deploying generative AI applications.
 
 ### Agent frameworks
 
 - [Pydantic AI](https://ai.pydantic.dev/): Typed agent development built around Pydantic.
 - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview): Low-level orchestration for long-running, stateful agents.
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/): A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration.
 - [Google Agent Development Kit](https://google.github.io/adk-docs/): Google's framework for developing and evaluating agents.
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/): Microsoft's successor to AutoGen and Semantic Kernel for agents and graph-based workflows.
-- [CrewAI](https://docs.crewai.com/index): Role-based agents and event-driven workflows.
-- [PocketFlow](https://the-pocket.github.io/PocketFlow/): A small framework for learning agent workflow patterns.
+
+### Durable and asynchronous agents
+
+- [Effective Harnesses for Long-Running Agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents): Patterns for agents that make progress across multiple context windows and recover from failure.
+- [Running Agents](https://openai.github.io/openai-agents-python/running_agents/): Lifecycle, session, exception, and durable-execution patterns in the OpenAI Agents SDK.
+- [Human-in-the-Loop](https://openai.github.io/openai-agents-python/human_in_the_loop/): Pause, inspect, approve, reject, and resume tool calls without losing agent state.
+- [Gemini and Temporal Durable Agent](https://ai.google.dev/gemini-api/docs/temporal-example): A concrete implementation of durable execution, retries, and human approval for an agent workflow.
 
 ### Retrieval and data
 
@@ -77,6 +95,7 @@ This is not a comprehensive directory of AI products. Each category contains up 
 
 ### Evals and reliability
 
+- [Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents): A practical method for building task suites, graders, transcripts, and evaluation harnesses.
 - [OpenAI Evals](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
@@ -104,16 +123,22 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [Cline](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
 - [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
 
+### Software factories and agent orchestration
+
+- [Harness Engineering](https://openai.com/index/harness-engineering/): OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering.
+- [Codex Orchestration with Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/): A reference architecture that turns project work into isolated, observable coding-agent runs.
+- [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system): Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.
+
 ## Contributing
 
-Suggestions are welcome, but this list is intentionally small.
+Suggestions are welcome, but this list is intentionally selective. Read [the curation policy](CURATION.md) before opening an issue or pull request.
 
 A proposed resource should:
 
 - serve software developers learning or practising AI engineering;
 - provide technical or practical value beyond a product homepage;
-- be actively maintained, unless it is a foundational work;
+- be current and maintained, unless its value is foundational and durable;
 - add something meaningfully different from the existing entries;
 - use a factual description supported by a primary source.
 
-If a category already has 10 entries, explain which existing resource the proposal should replace and why. Disclose any affiliation with the resource.
+Explain which developer problem the resource solves and why it clears the rubric. If it overlaps an existing entry, explain why it is materially better. Disclose any affiliation with the resource.
