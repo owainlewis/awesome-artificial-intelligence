@@ -31,6 +31,7 @@ _Deep, durable knowledge — still valuable five years from now._
 
 ### Courses
 
+* [Meridian Institute of AI](https://meridianinstituteai.com) - 20 free AI courses with certificates covering foundations, prompt engineering, machine learning, agents, and domain applications in finance, law, healthcare, and cybersecurity.
 **Beginner**
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
