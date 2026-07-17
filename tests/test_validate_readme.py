@@ -50,6 +50,20 @@ class ValidateReadmeTests(unittest.TestCase):
         _, errors, _ = validate_text(text)
         self.assertTrue(any("outside a level-three category" in error for error in errors))
 
+    def test_same_category_name_in_different_sections(self):
+        text = """## First
+
+### Tools
+
+## Second
+
+### Tools
+
+- [A Tool](https://example.com/tool): A tool.
+"""
+        _, errors, _ = validate_text(text)
+        self.assertTrue(any("section 'First'" in error for error in errors))
+
     def test_description_needs_period(self):
         _, errors, _ = validate_text(
             "### Books\n\n- [A Book](https://example.com/book): Missing punctuation\n"

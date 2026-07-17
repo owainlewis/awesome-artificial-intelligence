@@ -49,8 +49,8 @@ def validate_text(text: str) -> tuple[list[Resource], list[str], list[str]]:
     warnings: list[str] = []
     section = ""
     category = ""
-    category_lines: dict[str, int] = {}
-    category_counts: dict[str, int] = {}
+    category_lines: dict[tuple[str, str], int] = {}
+    category_counts: dict[tuple[str, str], int] = {}
 
     for line_number, line in enumerate(text.splitlines(), start=1):
         if line.startswith("## "):
@@ -59,8 +59,9 @@ def validate_text(text: str) -> tuple[list[Resource], list[str], list[str]]:
             continue
         if line.startswith("### "):
             category = line[4:].strip()
-            category_lines[category] = line_number
-            category_counts[category] = 0
+            category_key = (section, category)
+            category_lines[category_key] = line_number
+            category_counts[category_key] = 0
             continue
         if not LINK_RE.match(line):
             continue
@@ -76,11 +77,16 @@ def validate_text(text: str) -> tuple[list[Resource], list[str], list[str]]:
             errors.append(f"line {line_number}: description must end with a period")
         resource = Resource(line_number, section, category, title.strip(), url, description.strip())
         resources.append(resource)
-        category_counts[category] += 1
+        category_counts[(section, category)] += 1
 
-    for name, count in category_counts.items():
+    for category_key, count in category_counts.items():
         if count == 0:
-            errors.append(f"line {category_lines[name]}: category '{name}' has no resources")
+            section_name, category_name = category_key
+            location = f" in section '{section_name}'" if section_name else ""
+            errors.append(
+                f"line {category_lines[category_key]}: category '{category_name}'{location} "
+                "has no resources"
+            )
 
     seen_titles: dict[str, Resource] = {}
     seen_urls: dict[str, Resource] = {}
