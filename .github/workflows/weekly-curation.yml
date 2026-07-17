@@ -164,7 +164,7 @@ jobs:
           path: approved
       - name: Commit approved patch
         run: |
-          git apply --index approved/codex.patch
+          git apply --index approved/proposal/codex.patch
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -c "$BRANCH"
@@ -178,7 +178,7 @@ jobs:
           {
             echo "## Weekly curation report"
             echo
-            cat approved/curation-report.md
+            cat approved/proposal/curation-report.md
             echo
             echo "## Independent review"
             echo
