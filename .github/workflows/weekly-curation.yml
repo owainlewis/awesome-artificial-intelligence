@@ -63,17 +63,23 @@ jobs:
         run: |
           python -m unittest discover -s tests -v
           python scripts/validate_readme.py README.md --check-links --base HEAD
-          unexpected="$(git status --porcelain --untracked-files=all | grep -v -e '^ M README.md$' -e '^?? curation-report.md$' || true)"
-          if [ -n "$unexpected" ]; then
-            echo "Curator made unexpected workspace changes:"
-            echo "$unexpected"
+          changed="$(git diff HEAD --name-only)"
+          untracked="$(git ls-files --others --exclude-standard | grep -v '^curation-report.md$' || true)"
+          if [ -n "$changed" ] && [ "$changed" != "README.md" ]; then
+            echo "Curator changed files other than README.md:"
+            echo "$changed"
+            exit 1
+          fi
+          if [ -n "$untracked" ]; then
+            echo "Curator created unexpected files:"
+            echo "$untracked"
             exit 1
           fi
       - name: Create patch artifact
         if: steps.open-pr.outputs.exists != 'true'
         id: patch
         run: |
-          git diff --binary -- README.md > codex.patch
+          git diff HEAD --binary -- README.md > codex.patch
           if [ -s codex.patch ]; then
             echo "has_patch=true" >> "$GITHUB_OUTPUT"
           else
