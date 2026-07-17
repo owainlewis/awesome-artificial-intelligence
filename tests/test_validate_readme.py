@@ -45,6 +45,11 @@ class ValidateReadmeTests(unittest.TestCase):
         _, errors, _ = validate_text("### Books\n\nSome prose.\n")
         self.assertIn("category 'Books' has no resources", errors[0])
 
+    def test_level_two_heading_resets_category(self):
+        text = VALID + "\n## Contributing\n\n- [A Tool](https://example.com/tool): A tool.\n"
+        _, errors, _ = validate_text(text)
+        self.assertTrue(any("outside a level-three category" in error for error in errors))
+
     def test_description_needs_period(self):
         _, errors, _ = validate_text(
             "### Books\n\n- [A Book](https://example.com/book): Missing punctuation\n"
@@ -82,7 +87,8 @@ class ValidateReadmeTests(unittest.TestCase):
         self.assertEqual("warning", classify_exception(timeout, url)[0])
 
     def test_churn_limits(self):
-        base = "### Books\n\n- [Book](https://example.com/book): A book.\n\n### Tools\n\n"
+        base = "## Learn\n\n### Books\n\n- [Book](https://example.com/book): A book.\n\n"
+        base += "## Build\n\n### Tools\n\n"
         base += "\n".join(
             f"- [Tool {index}](https://example.com/{index}): A tool."
             for index in range(6)
@@ -101,8 +107,8 @@ class ValidateReadmeTests(unittest.TestCase):
 
         two_foundations = base.replace("A book.", "A revised book.")
         two_foundations = two_foundations.replace(
-            "\n### Tools",
-            "\n- [Second Book](https://example.com/book-2): A book.\n\n### Tools",
+            "\n## Build",
+            "\n- [Second Book](https://example.com/book-2): A book.\n\n## Build",
         )
         self.assertTrue(
             any("foundational entries" in error for error in validate_churn(base, two_foundations))
@@ -110,8 +116,8 @@ class ValidateReadmeTests(unittest.TestCase):
 
         moved_to_foundations = base.replace("A book.", "A revised book.")
         moved_to_foundations = moved_to_foundations.replace(
-            "\n### Tools\n\n- [Tool 0](https://example.com/0): A tool.",
-            "\n- [Tool 0](https://example.com/0): A tool.\n\n### Tools",
+            "\n## Build\n\n### Tools\n\n- [Tool 0](https://example.com/0): A tool.",
+            "\n- [Tool 0](https://example.com/0): A tool.\n\n## Build\n\n### Tools",
         )
         self.assertTrue(
             any(

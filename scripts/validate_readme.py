@@ -26,6 +26,7 @@ USER_AGENT = "awesome-ai-resource-validator/1.0"
 @dataclass(frozen=True)
 class Resource:
     line: int
+    section: str
     category: str
     title: str
     url: str
@@ -46,11 +47,16 @@ def validate_text(text: str) -> tuple[list[Resource], list[str], list[str]]:
     resources: list[Resource] = []
     errors: list[str] = []
     warnings: list[str] = []
+    section = ""
     category = ""
     category_lines: dict[str, int] = {}
     category_counts: dict[str, int] = {}
 
     for line_number, line in enumerate(text.splitlines(), start=1):
+        if line.startswith("## "):
+            section = line[3:].strip()
+            category = ""
+            continue
         if line.startswith("### "):
             category = line[4:].strip()
             category_lines[category] = line_number
@@ -68,7 +74,7 @@ def validate_text(text: str) -> tuple[list[Resource], list[str], list[str]]:
         title, url, description = match.groups()
         if not description.endswith("."):
             errors.append(f"line {line_number}: description must end with a period")
-        resource = Resource(line_number, category, title.strip(), url, description.strip())
+        resource = Resource(line_number, section, category, title.strip(), url, description.strip())
         resources.append(resource)
         category_counts[category] += 1
 
@@ -175,22 +181,21 @@ def validate_churn(base_text: str, current_text: str) -> list[str]:
     base = resource_map(base_resources)
     current = resource_map(current_resources)
 
-    def signature(resource: Resource | None) -> tuple[str, str, str] | None:
+    def signature(resource: Resource | None) -> tuple[str, str, str, str] | None:
         if resource is None:
             return None
-        return resource.category, resource.url, resource.description
+        return resource.section, resource.category, resource.url, resource.description
 
     changed_titles = {
         title
         for title in base.keys() | current.keys()
         if signature(base.get(title)) != signature(current.get(title))
     }
-    foundational = {"books", "courses", "foundational papers"}
     foundational_changes = sum(
         1
         for title in changed_titles
         if any(
-            resource and resource.category.casefold() in foundational
+            resource and resource.section.casefold() == "learn"
             for resource in (base.get(title), current.get(title))
         )
     )
