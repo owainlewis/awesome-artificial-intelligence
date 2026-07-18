@@ -1,0 +1,31 @@
+name: Quality
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - CURATION.md
+      - "scripts/**"
+      - "tests/**"
+      - ".github/codex/**"
+      - ".github/workflows/**"
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Validate README structure
+        run: python scripts/validate_readme.py README.md --check-links
