@@ -1,14 +1,14 @@
 # Weekly AI Resource Curation
 
-**Status:** Approved
+**Status:** Approved, revised for local execution
 
 **Author:** Repository maintainers
 
-**Date:** 2026-07-17
+**Date:** 2026-07-17, revised 2026-07-19
 
 ## Summary
 
-Turn the repository into a weekly, evidence-backed curation system rather than a list that grows by manual submission. A scheduled GitHub Actions workflow will ask Codex to assess topic coverage, compare current resources with credible challengers, and propose a small README patch. A second independent Codex run will review the evidence and veto weak or high-churn changes. Approved patches will open a dedicated automation pull request and will never merge directly into `master`. Later runs skip while that pull request awaits review.
+Turn the repository into a weekly, evidence-backed curation system rather than a list that grows by manual submission. A local Codex desktop automation assesses topic coverage, compares current resources with credible challengers, and proposes a small README patch from an isolated worktree. An independent review vetoes weak or high-churn changes before the automation pushes a dated branch and opens a draft pull request. GitHub Actions runs deterministic quality checks, and a maintainer decides what merges. Later runs skip while a recent curation pull request awaits review.
 
 ## Goals
 
@@ -19,7 +19,7 @@ Turn the repository into a weekly, evidence-backed curation system rather than a
 - Discover important engineering topics that the repository does not yet cover.
 - Evaluate incumbents and challengers, allowing additions, corrections, replacements, and removals.
 - Keep weekly churn low enough that every change remains meaningful and reviewable.
-- Keep the OpenAI API key isolated from jobs with GitHub write permission.
+- Avoid repository API-key costs by running model work through the local Codex environment.
 - Make “no change this week” a successful outcome.
 
 ## Non-goals
@@ -33,11 +33,11 @@ Turn the repository into a weekly, evidence-backed curation system rather than a
 ## Constraints
 
 - The README remains the published artifact. The system must not require a database or external content platform.
-- Scheduled runs must operate unattended and cannot request approvals.
+- Scheduled runs must operate unattended, stop safely on ambiguity, and defer merge approval to a maintainer.
 - Research must use primary sources for factual claims and credible independent sources for adoption or production-use claims.
 - Foundational material needs a durability exception. Age alone must not count against a classic paper or book.
 - Practical software must be checked for maintenance, supersession, documentation, and production fitness.
-- The workflow requires an `OPENAI_API_KEY` repository secret and permission for GitHub Actions to create pull requests.
+- The local automation requires authenticated GitHub access and permission to create an isolated worktree, push a branch, and open a draft pull request.
 
 ## Proposed design
 
@@ -84,22 +84,23 @@ Each run will:
 
 These limits are maximums, not targets. Zero changes is valid.
 
-### Weekly workflow
+### Weekly automation
 
 ```mermaid
 flowchart LR
-    A["Weekly schedule or manual run"] --> B["Curator job: research and edit README"]
-    B --> C["Patch and evidence artifact"]
-    C --> D["Reviewer job: independently verify quality and churn"]
-    D -->|Approved| E["Approved artifact"]
-    D -->|Rejected| F["Fail run with findings"]
-    E --> G["PR job without OpenAI secret"]
-    G --> H["Create or update weekly curation PR"]
+    A["Local weekly schedule"] --> B["Inspect recent curation work"]
+    B --> C["Research and edit README in isolated worktree"]
+    C --> D["Run tests and link validation"]
+    D --> E["Independent evidence and policy review"]
+    E -->|Approved| F["Push dated branch and open draft PR"]
+    E -->|Rejected| G["Discard proposal and report findings"]
+    F --> H["GitHub Quality workflow"]
+    H --> I["Human merge decision"]
 ```
 
-The curator and reviewer use `openai/codex-action@v1`. Both jobs have read-only GitHub permissions. The curator receives the `workspace-write` sandbox so it can edit the checkout, plus live web search. It outputs only a README patch and a research report. The reviewer applies the patch in a separate checkout, runs in the `read-only` sandbox with live web search, and emits structured JSON containing approval and findings.
+The curator runs in the local Codex environment with live web research. It creates an isolated worktree from the latest `origin/master`, edits only `README.md`, and records evidence and scores. It runs the repository tests and live link validation with `--base origin/master` so the churn limits are checked deterministically. A fresh review subagent that did not perform the curation then examines the actual diff, sources, scoring, category fit, replacement margins, and churn rules. Publication requires an Approve verdict with no blocker or important findings.
 
-Only an approved artifact reaches the pull-request job. That job has `contents: write` and `pull-requests: write`, but no OpenAI secret. It updates the fixed `codex/weekly-curation` branch using `--force-with-lease` and creates one review PR. The workflow skips before model execution whenever that PR is already open, preserving unreviewed work and avoiding API cost.
+Only an approved proposal is committed and pushed. The automation uses a dated `codex/curation-YYYY-MM-DD` branch and opens a draft pull request containing the evidence report, check results, and review verdict. It never merges or approves the pull request. It skips new curation work when an open Codex curation pull request exists or one was merged or closed within the last eight days. On every outcome it inspects and safely removes only the exact temporary worktree created by that run; unknown or user changes block cleanup and are reported.
 
 ### Locked prompts
 
@@ -120,13 +121,13 @@ A dependency-free Python validator will check:
 
 Definitive client errors, DNS failures, and TLS failures fail link validation. Authentication, bot protection, rate limits, timeouts, and transient server errors are warnings. Unit tests cover parsing, duplicates, category handling, URL normalization, link-status classification, and churn boundaries.
 
-A normal pull-request workflow runs unit tests, structural validation, and live link validation. The weekly curator also checks the patch against deterministic resource, net-addition, and foundational-change limits before creating an artifact.
+A normal pull-request workflow runs unit tests, structural validation, and live link validation. The local curator runs the same checks before publishing and also validates resource, net-addition, and foundational-change limits.
 
 ## Alternatives and tradeoffs
 
-### Codex desktop scheduled task
+### GitHub Actions Codex job
 
-This would be simpler to start, but it depends on a local machine, creates less visible operational state, and is harder to secure and reproduce. GitHub Actions keeps the prompt, schedule, logs, patch, and PR in the repository.
+This keeps model execution in repository-visible workflow logs, but requires a paid `OPENAI_API_KEY` secret and gives untrusted repository and web content a path into an API-key-bearing job. The first manual run also failed before model execution because an empty key skipped proxy startup while the action still attempted to read proxy state. Local execution avoids that secret and cost while preserving visibility through the resulting draft pull request and audit summary.
 
 ### One curator run without independent review
 
@@ -140,31 +141,31 @@ This makes validation simple but forces weak additions in thin categories and li
 
 This reduces maintenance work but removes the final editorial boundary. A review PR preserves accountability and makes rollback straightforward.
 
-### A single job with both the API key and GitHub write access
+### Direct writes to the default branch
 
-This is easier to implement but increases the impact of prompt injection or compromised repository content. Passing a patch artifact across the security boundary is safer.
+This is easier to implement but increases the impact of prompt injection or compromised repository content. The local automation instead limits curation edits to a dated branch and draft pull request, requires a fresh independent review, and leaves merging to a human.
 
 ## Risks
 
-- **Prompt injection from web content:** Treat all external content as untrusted, use web results only as evidence, separate the reviewer, and keep GitHub write permissions out of AI jobs.
+- **Prompt injection from web content:** Treat all external content as untrusted data, use web results only as evidence, limit repository edits to a dated README branch and draft pull request, require a fresh independent reviewer, and leave merging to a human.
 - **False production-use claims:** Require independent evidence and record unknowns instead of inferring from popularity.
 - **Weekly noise:** Enforce strict change budgets, comparison margins, and a no-change outcome.
 - **Outdated foundational bias:** Apply separate evaluation profiles so classics are judged on durability rather than recency.
-- **Automation branch overwrite:** Reserve `codex/weekly-curation` for the bot and use `--force-with-lease`, never an unconditional force push.
+- **Worktree or branch collision:** Use an exact temporary worktree and dated curation branch, stop rather than overwrite existing or uncommitted work, and clean up the exact run-created worktree on successful, rejected, and no-change outcomes.
 - **External link flakiness:** Fail only confirmed broken statuses and report blocked checks as warnings.
-- **API or workflow cost:** Limit each curator and reviewer to 45 minutes and three research iterations.
+- **Local availability and runtime:** Run once weekly, stop after 45 minutes, and treat a missed or no-change run as safe. The next scheduled run can recover without weakening policy.
 
 ## Rollout
 
-1. Add the policy, prompts, schema, validator, tests, and workflows to the current pull request.
-2. Run local tests and validate the current README.
-3. Add the `OPENAI_API_KEY` secret and enable GitHub Actions pull-request creation.
-4. Trigger the workflow manually and inspect the first report without merging its curation PR.
-5. Adjust the rubric using the first run, then enable the Monday 07:00 UTC schedule.
+1. Keep the policy, prompts, schema, validator, tests, and quality workflow version controlled.
+2. Configure the local Codex automation for Monday at 09:00 in the desktop timezone.
+3. Run curation in an isolated worktree from the latest `origin/master`.
+4. Publish only independently reviewed proposals as draft pull requests.
+5. Keep the GitHub Quality workflow and human merge decision as required gates.
 6. Review acceptance rate and churn after four runs.
 
-Backout is disabling the workflow or reverting the automation commit. The README remains usable without the system.
+Backout is pausing the local automation. The README and deterministic GitHub checks remain usable without it.
 
 ## Decision
 
-Approved by the maintainer on 2026-07-17. Use Monday at 07:00 UTC, allow the first manual run to propose changes under the normal limits, and document the required repository settings as setup steps.
+Approved by the maintainer on 2026-07-17 and revised on 2026-07-19. Run the curator locally each Monday at 09:00 in the desktop timezone, require an independent review and deterministic checks, publish only a draft pull request, and never merge automatically.
