@@ -79,10 +79,10 @@ These are ceilings, not targets. No change is a successful result. The automatio
 
 ## Repository setup
 
-The weekly workflow needs:
+The local weekly curator needs:
 
-- an `OPENAI_API_KEY` Actions secret;
-- GitHub Actions permission to create pull requests;
+- an active Codex desktop automation with authenticated GitHub access;
+- permission to create an isolated worktree, push a curation branch, and open a draft pull request;
 - branch protection that requires the quality workflow before merge.
 
-The scheduled run starts each Monday at 07:00 UTC and can also be triggered manually. The automation branch `codex/weekly-curation` is reserved for the workflow.
+The local automation runs each Monday at 09:00 in the desktop timezone. It uses a dated `codex/curation-YYYY-MM-DD` branch, opens a draft pull request for human review, and never merges automatically. GitHub Actions remains responsible only for deterministic quality checks.
