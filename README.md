@@ -106,6 +106,10 @@ The list is reviewed weekly by an evidence-backed automation that proposes small
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
 - [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
 
+### Speech and audio
+
+- [FunASR](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
+
 ## Agentic software engineering
 
 Coding agents help developers plan, implement, review, test, and debug software. For independent capability comparisons, see [SWE-bench](https://www.swebench.com/) and [Terminal-Bench](https://www.tbench.ai/leaderboard/terminal-bench/2.1).
