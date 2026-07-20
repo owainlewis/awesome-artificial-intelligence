@@ -55,8 +55,10 @@ Review developer problems before looking for products. Important areas include:
 
 - model and deep-learning foundations;
 - LLM application design, prompting, structured outputs, tools, and security;
-- retrieval, data ingestion, fine-tuning, and model serving;
-- evals, observability, testing, and production reliability;
+- retrieval as a pipeline: source parsing and lifecycle, embeddings, hybrid search, reranking, indexing, and retrieval-specific evaluation;
+- model adaptation and fine-tuning;
+- evals as an improvement loop: failure analysis, representative datasets, grader calibration, offline experiments, CI regression tests, and production sampling;
+- production operations: provider gateways, routing and fallbacks, OpenTelemetry-based tracing, cost and latency measurement, hosted versus self-hosted inference, batching, caching, and scaling;
 - agent design, context, memory, orchestration, and human approval;
 - synchronous request-response systems and asynchronous, event-driven, durable agents;
 - coding agents, isolated execution, CI feedback, and software factories.

@@ -89,22 +89,42 @@ The list is reviewed weekly by an evidence-backed automation that proposes small
 
 ### Retrieval and data
 
-- [LlamaIndex](https://docs.llamaindex.ai/): Data ingestion, indexing, retrieval, and agent workflows.
-- [Haystack](https://docs.haystack.deepset.ai/): Modular pipelines for retrieval and generative AI applications.
-- [Docling](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
+Production retrieval is a pipeline: ingest and refresh source data, preserve document identity, choose representations, retrieve broadly, rerank precisely, and measure retrieval separately from answer quality. These resources cover those layers rather than prescribing one RAG framework.
+
+- [Introducing Contextual Retrieval](https://www.anthropic.com/engineering/contextual-retrieval): A measured guide to chunk context, hybrid BM25 and embedding search, reranking, and retrieval evaluation.
+- [Sentence Transformers](https://www.sbert.net/): Embedding, sparse-encoder, and cross-encoder models for semantic search and reranking.
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT): An advanced late-interaction retriever that preserves token-level matching while supporting scalable search.
+- [pgvector](https://github.com/pgvector/pgvector): Exact and approximate vector search, hybrid retrieval, filtering, and reranking inside PostgreSQL.
+- [Docling](https://github.com/docling-project/docling): Structured parsing and conversion of PDFs, office documents, HTML, images, and other source formats.
+- [LlamaIndex Document Management](https://developers.llamaindex.ai/python/framework/module_guides/indexing/document_management/): Concrete patterns for stable document identity, insertion, deletion, updates, and refreshing an index as source documents change.
+- [BEIR](https://github.com/beir-cellar/beir): A heterogeneous benchmark and evaluation framework for comparing information-retrieval systems.
 
 ### Evals and reliability
 
+Start with failure analysis and product-specific datasets, then choose tools. A good eval system connects offline experiments, human judgment, CI regression tests, production traces, and new test cases mined from real failures.
+
 - [Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents): A practical method for building task suites, graders, transcripts, and evaluation harnesses.
-- [OpenAI Evals](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
+- [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/): Production lessons on error analysis, calibrated judges, trusted evals, and experiment-driven development.
+- [Inspect AI](https://inspect.aisi.org.uk/): A composable framework for model and agent evaluations with datasets, tools, sandboxes, scorers, logs, and more than 200 reusable evals.
+- [Braintrust Evals](https://www.braintrust.dev/docs/evaluate): Datasets, custom scorers, immutable experiments, CI regression checks, and asynchronous scoring of production traces.
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
 
-### Deployment and observability
+### Inference and serving
 
-- [Langfuse](https://langfuse.com/docs): Tracing, evaluation, prompt management, and metrics for LLM applications.
-- [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
+Most teams should start with hosted model APIs. These resources matter when local execution, data control, custom models, or inference economics justify operating model infrastructure.
+
+- [llama.cpp](https://github.com/ggml-org/llama.cpp): Portable local and edge inference across CPUs and GPUs with extensive quantization support.
+- [vLLM](https://docs.vllm.ai/): High-throughput GPU inference with continuous batching, prefix caching, quantization, distributed serving, and production metrics.
+- [KServe](https://kserve.github.io/website/docs/intro): A Kubernetes-specific control and data plane for autoscaling and operating predictive and generative model serving.
+
+### Gateways and observability
+
+Production AI needs provider routing, standard telemetry, trace inspection, cost and latency measurement, and a path from failures back into eval datasets.
+
 - [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
+- [OpenTelemetry GenAI Semantic Conventions](https://github.com/open-telemetry/semantic-conventions-genai): Vendor-neutral trace, metric, event, and agent conventions for generative AI systems.
+- [Langfuse](https://langfuse.com/docs): Open-source tracing, evaluation, prompt versioning, and cost, latency, and quality metrics for LLM applications.
 
 ## Agentic software engineering
 
@@ -118,6 +138,7 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [Cursor CLI](https://cursor.com/cli): A terminal agent connected to Cursor's editor and cloud workflows.
 - [GitHub Copilot coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent): An asynchronous agent that works from GitHub issues and opens pull requests.
 - [Aider](https://aider.chat/): An open-source pair programmer with Git integration and broad model support.
+- [Pi Agent Harness](https://github.com/earendil-works/pi): A self-extensible coding agent plus a reusable agent runtime, unified multi-provider model API, and terminal UI libraries.
 - [OpenCode](https://opencode.ai/): An open-source, provider-independent terminal agent with a client-server architecture.
 - [OpenHands](https://docs.all-hands.dev/): An open-source platform for running software development agents locally or in the cloud.
 - [Cline](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
