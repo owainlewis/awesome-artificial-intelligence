@@ -1,14 +1,14 @@
 # Weekly AI Resource Curation
 
-**Status:** Approved, revised for local execution
+**Status:** Approved, revised for autonomous merging
 
 **Author:** Repository maintainers
 
-**Date:** 2026-07-17, revised 2026-07-19
+**Date:** 2026-07-17, revised 2026-07-27
 
 ## Summary
 
-Turn the repository into a weekly, evidence-backed curation system rather than a list that grows by manual submission. A local Codex desktop automation assesses topic coverage, compares current resources with credible challengers, and proposes a small README patch from an isolated worktree. An independent review vetoes weak or high-churn changes before the automation pushes a dated branch and opens a draft pull request. GitHub Actions runs deterministic quality checks, and a maintainer decides what merges. Later runs skip while a recent curation pull request awaits review.
+Turn the repository into a weekly, evidence-backed curation system rather than a list that grows by manual submission. A local Codex desktop automation assesses topic coverage, compares current resources with credible challengers, and proposes a small README patch from an isolated worktree. An independent review vetoes weak or high-churn changes before the automation creates or updates one curation pull request. GitHub Actions runs deterministic quality checks, and the automation squash-merges only when every policy, review, check, and mergeability gate passes on the exact head commit.
 
 ## Goals
 
@@ -20,24 +20,25 @@ Turn the repository into a weekly, evidence-backed curation system rather than a
 - Evaluate incumbents and challengers, allowing additions, corrections, replacements, and removals.
 - Keep weekly churn low enough that every change remains meaningful and reviewable.
 - Avoid repository API-key costs by running model work through the local Codex environment.
+- Remove routine maintainer merge work without weakening evidence, review, or CI gates.
 - Make “no change this week” a successful outcome.
 
 ## Non-goals
 
 - Build a comprehensive directory of AI products.
-- Automatically merge editorial changes.
 - Treat stars, social attention, or release frequency as proof of quality.
-- Replace maintainer judgment for close or subjective decisions.
+- Merge ambiguous, disputed, or weakly evidenced changes.
+- Rewrite contributor branches or override maintainer decisions.
 - React to every weekly model or product announcement.
 
 ## Constraints
 
 - The README remains the published artifact. The system must not require a database or external content platform.
-- Scheduled runs must operate unattended, stop safely on ambiguity, and defer merge approval to a maintainer.
+- Scheduled runs must operate unattended and stop safely on ambiguity.
 - Research must use primary sources for factual claims and credible independent sources for adoption or production-use claims.
 - Foundational material needs a durability exception. Age alone must not count against a classic paper or book.
 - Practical software must be checked for maintenance, supersession, documentation, and production fitness.
-- The local automation requires authenticated GitHub access and permission to create an isolated worktree, push a branch, and open a draft pull request.
+- The local automation requires authenticated GitHub access and permission to create an isolated worktree, push a branch, open a ready pull request, and merge it after all gates pass.
 
 ## Proposed design
 
@@ -92,15 +93,22 @@ flowchart LR
     B --> C["Research and edit README in isolated worktree"]
     C --> D["Run tests and link validation"]
     D --> E["Independent evidence and policy review"]
-    E -->|Approved| F["Push dated branch and open draft PR"]
+    E -->|Approved| F["Create or update curation PR"]
     E -->|Rejected| G["Discard proposal and report findings"]
     F --> H["GitHub Quality workflow"]
-    H --> I["Human merge decision"]
+    H -->|Exact head passes| I["Automatic squash merge"]
+    H -->|Fails| J["Fix safely or leave unmerged"]
 ```
 
 The curator runs in the local Codex environment with live web research. It creates an isolated worktree from the latest `origin/master`, edits only `README.md`, and records evidence and scores. It runs the repository tests and live link validation with `--base origin/master` so the churn limits are checked deterministically. A fresh review subagent that did not perform the curation then examines the actual diff, sources, scoring, category fit, replacement margins, and churn rules. Publication requires an Approve verdict with no blocker or important findings.
 
-Only an approved proposal is committed and pushed. The automation uses a dated `codex/curation-YYYY-MM-DD` branch and opens a draft pull request containing the evidence report, check results, and review verdict. It never merges or approves the pull request. It skips new curation work when an open Codex curation pull request exists or one was merged or closed within the last eight days. On every outcome it inspects and safely removes only the exact temporary worktree created by that run; unknown or user changes block cleanup and are reported.
+Only an approved proposal is committed and pushed. The automation uses a dated `codex/curation-YYYY-MM-DD` branch and creates or updates one pull request containing the evidence report, check results, and review verdict. It may update only its own curation branch from the latest `origin/master`; it never rewrites a contributor branch.
+
+Before merging, the automation rechecks the exact pull-request head and confirms that the pull request changes only `README.md`. Every hard gate, score, churn limit, replacement margin, local check, independent review finding, GitHub Quality check, mergeability check, and material review comment must be clear. Any head change invalidates the earlier evidence and requires a fresh review and checks. The final squash merge atomically matches the reviewed SHA with `--match-head-commit`; a mismatch stops the merge. An uncertain or failing pull request remains unmerged. Pull requests that change policy, prompts, workflows, validators, tests, or other code always require a separate non-curation review and are never auto-merged by this automation.
+
+The automation maintains at most one automation-owned weekly pull request whose branch matches `codex/curation-*`. A merged or closed automation-owned weekly pull request starts the eight-day cooldown for new weekly proposals. Contributor resource pull requests are evaluated and may be merged independently; they do not suppress weekly curation.
+
+On every outcome the automation inspects and safely removes only the exact temporary worktree created by that run; unknown or user changes block cleanup and are reported.
 
 ### Locked prompts
 
@@ -127,7 +135,7 @@ A normal pull-request workflow runs unit tests, structural validation, and live 
 
 ### GitHub Actions Codex job
 
-This keeps model execution in repository-visible workflow logs, but requires a paid `OPENAI_API_KEY` secret and gives untrusted repository and web content a path into an API-key-bearing job. The first manual run also failed before model execution because an empty key skipped proxy startup while the action still attempted to read proxy state. Local execution avoids that secret and cost while preserving visibility through the resulting draft pull request and audit summary.
+This keeps model execution in repository-visible workflow logs, but requires a paid `OPENAI_API_KEY` secret and gives untrusted repository and web content a path into an API-key-bearing job. The first manual run also failed before model execution because an empty key skipped proxy startup while the action still attempted to read proxy state. Local execution avoids that secret and cost while preserving visibility through the resulting pull request and audit summary.
 
 ### One curator run without independent review
 
@@ -137,17 +145,17 @@ This costs less but makes prompt errors, weak evidence, and correlated judgment 
 
 This makes validation simple but forces weak additions in thin categories and limits rich categories. The design uses an absolute quality threshold plus churn limits instead of a quota.
 
-### Direct commits or automatic merging
+### Direct commits or merge without exact-head gates
 
-This reduces maintenance work but removes the final editorial boundary. A review PR preserves accountability and makes rollback straightforward.
+Direct commits or unchecked merging reduce visibility and increase the impact of a bad research or review result. The selected design keeps a pull request, independent review, deterministic CI, exact-head verification, and an auditable squash commit while removing the routine manual click.
 
 ### Direct writes to the default branch
 
-This is easier to implement but increases the impact of prompt injection or compromised repository content. The local automation instead limits curation edits to a dated branch and draft pull request, requires a fresh independent review, and leaves merging to a human.
+This is easier to implement but increases the impact of prompt injection or compromised repository content. The local automation instead limits curation edits to its dated branch and pull request, requires a fresh independent review, and requires successful exact-head CI before an automatic squash merge.
 
 ## Risks
 
-- **Prompt injection from web content:** Treat all external content as untrusted data, use web results only as evidence, limit repository edits to a dated README branch and draft pull request, require a fresh independent reviewer, and leave merging to a human.
+- **Prompt injection from web content:** Treat all external content as untrusted data, use web results only as evidence, limit repository edits to a dated README branch and pull request, require a fresh independent reviewer, and require successful exact-head CI before merge.
 - **False production-use claims:** Require independent evidence and record unknowns instead of inferring from popularity.
 - **Weekly noise:** Enforce strict change budgets, comparison margins, and a no-change outcome.
 - **Outdated foundational bias:** Apply separate evaluation profiles so classics are judged on durability rather than recency.
@@ -160,12 +168,12 @@ This is easier to implement but increases the impact of prompt injection or comp
 1. Keep the policy, prompts, schema, validator, tests, and quality workflow version controlled.
 2. Configure the local Codex automation for Monday at 09:00 in the desktop timezone.
 3. Run curation in an isolated worktree from the latest `origin/master`.
-4. Publish only independently reviewed proposals as draft pull requests.
-5. Keep the GitHub Quality workflow and human merge decision as required gates.
+4. Publish only independently reviewed proposals as pull requests.
+5. Require the GitHub Quality workflow on the exact head, then squash-merge qualifying proposals automatically.
 6. Review acceptance rate and churn after four runs.
 
 Backout is pausing the local automation. The README and deterministic GitHub checks remain usable without it.
 
 ## Decision
 
-Approved by the maintainer on 2026-07-17 and revised on 2026-07-19. Run the curator locally each Monday at 09:00 in the desktop timezone, require an independent review and deterministic checks, publish only a draft pull request, and never merge automatically.
+Approved by the maintainer on 2026-07-17 and revised on 2026-07-27. Run the curator locally each Monday at 09:00 in the desktop timezone, require an independent review and deterministic exact-head checks, maintain at most one automation-owned weekly curation pull request, and automatically squash-merge with an atomic head match only when every gate passes.
