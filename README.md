@@ -21,6 +21,7 @@ The list is reviewed weekly by an evidence-backed automation that proposes small
 
 - [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/): The broad reference for classical AI, including search, reasoning, planning, learning, and robotics.
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf): Sutton and Barto's foundational treatment of reinforcement learning concepts and algorithms.
+- [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp): A project-based introduction to building and deploying machine learning systems by Alexey Grigorev.
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/): Scalable, maintainable machine learning systems by Chip Huyen.
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/): Building applications with foundation models by Chip Huyen.
 - [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch): Implement transformers in PyTorch with Sebastian Raschka.
