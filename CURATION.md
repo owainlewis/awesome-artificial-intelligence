@@ -75,14 +75,28 @@ The weekly curator may add, correct, replace, or remove entries. It must:
 - leave uncertain resources unchanged;
 - inspect recent curation commits and any open automation pull request before repeating work.
 
-These are ceilings, not targets. No change is a successful result. The automation opens at most one curation pull request and skips future runs until that proposal is merged or closed. A maintainer decides what merges.
+These are ceilings, not targets. No change is a successful result. The automation maintains at most one automation-owned weekly curation pull request whose head branch matches `codex/curation-*`, and it may update that branch from the latest `origin/master`. It skips creating a new automation-owned weekly proposal when one of those pull requests was merged or closed within the last eight days. Contributor resource pull requests do not trigger this cooldown.
+
+The automation may squash-merge an automation-owned weekly proposal or a contributor resource pull request only when all of these are true on the exact head commit:
+
+- the pull request changes only `README.md`;
+- every resource passes the hard gates and scores at least 80;
+- the weekly churn and replacement-margin rules pass;
+- local unit, structure, churn, and live-link checks pass;
+- a fresh independent reviewer returns Approve with no blocker or important findings;
+- the GitHub Quality workflow passes;
+- the pull request is cleanly mergeable and has no unresolved material feedback.
+
+Any head change invalidates the prior review and checks. The automation must never lower a policy, test, permission, or review gate to make a pull request mergeable.
+
+The final merge must atomically match the reviewed head SHA, for example with `gh pr merge --squash --match-head-commit <sha>`. A mismatch stops the merge and requires fresh review and checks.
 
 ## Repository setup
 
 The local weekly curator needs:
 
 - an active Codex desktop automation with authenticated GitHub access;
-- permission to create an isolated worktree, push a curation branch, and open a draft pull request;
+- permission to create an isolated worktree, push or update its curation branch, and merge its verified pull request;
 - branch protection that requires the quality workflow before merge.
 
-The local automation runs each Monday at 09:00 in the desktop timezone. It uses a dated `codex/curation-YYYY-MM-DD` branch, opens a draft pull request for human review, and never merges automatically. GitHub Actions remains responsible only for deterministic quality checks.
+The local automation runs each Monday at 09:00 in the desktop timezone. It uses a dated `codex/curation-YYYY-MM-DD` branch, creates or updates one pull request, and squash-merges it automatically only after every exact-head gate above passes. GitHub Actions remains responsible for deterministic quality checks.

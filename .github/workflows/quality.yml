@@ -22,10 +22,20 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
       - name: Run unit tests
         run: python -m unittest discover -s tests -v
       - name: Validate README structure
-        run: python scripts/validate_readme.py README.md --check-links
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          if [ -n "$BASE_REF" ]; then
+            git fetch origin "$BASE_REF"
+            python scripts/validate_readme.py README.md --check-links --base "origin/$BASE_REF"
+          else
+            python scripts/validate_readme.py README.md --check-links
+          fi

@@ -13,7 +13,7 @@ This list is for developers who want to:
 
 This is not a comprehensive directory of AI products. Every entry must clear an absolute quality bar for technical depth, practical value, evidence, and distinctiveness. Categories are not quotas, and a short category is better than one padded with weak choices.
 
-The list is reviewed weekly by an evidence-backed automation that proposes small changes for human review. See [how resources are evaluated](CURATION.md).
+The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
 ## Learn
 
