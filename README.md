@@ -111,6 +111,10 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 
 - [FunASR](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
 
+### Decision systems
+
+- [DAUDIT](https://www.daudit.net): A decision-context engine that audits high-stakes decisions across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence). Designed for founders, investors, and operators.
+
 ## Agentic software engineering
 
 Coding agents help developers plan, implement, review, test, and debug software. For independent capability comparisons, see [SWE-bench](https://www.swebench.com/) and [Terminal-Bench](https://www.tbench.ai/leaderboard/terminal-bench/2.1).
