@@ -73,6 +73,11 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents): Practical principles for building controllable LLM applications around deterministic software.
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/): Risks and mitigations for developing and deploying generative AI applications.
 
+### Protocols and interoperability
+
+- [Model Context Protocol](https://modelcontextprotocol.io/specification/2026-07-28): The open specification for connecting AI applications to external tools, data sources, prompts, and interactive apps.
+- [Agent2Agent Protocol](https://a2a-protocol.org/latest/specification/): A vendor-neutral specification for agent discovery, task delegation, streaming, asynchronous updates, and cross-platform communication.
+
 ### Agent frameworks
 
 - [Pydantic AI](https://ai.pydantic.dev/): Typed agent development built around Pydantic.
