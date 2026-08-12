@@ -132,6 +132,7 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [OpenHands](https://docs.all-hands.dev/): An open-source platform for running software development agents locally or in the cloud.
 - [Cline](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
 - [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): An open-source, local-first terminal and TUI coding agent that runs open-weight models entirely on your machine with no account or API key required.
 
 ### Software factories and agent orchestration
 
