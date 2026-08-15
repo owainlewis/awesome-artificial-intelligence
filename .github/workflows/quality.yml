@@ -4,10 +4,14 @@ on:
   pull_request:
     paths:
       - README.md
+      - AUTOMATION.md
+      - CONTRIBUTING.md
       - CURATION.md
       - "scripts/**"
       - "tests/**"
       - ".github/codex/**"
+      - ".github/ISSUE_TEMPLATE/**"
+      - ".github/pull_request_template.md"
       - ".github/workflows/**"
   push:
     branches: [master]

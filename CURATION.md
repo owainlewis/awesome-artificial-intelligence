@@ -1,11 +1,41 @@
 # Curation policy
 
-This repository is a small, opinionated guide for software developers learning AI engineering. It has two equal pillars:
+This repository is a small, opinionated guide for software developers learning AI engineering. Every resource must serve at least one of three pillars:
 
-1. Serious foundations: durable books, papers, courses, and research that explain how AI systems work.
-2. Practical engineering: resources that help developers build, evaluate, secure, operate, and improve generative AI and agentic systems.
+1. **AI foundations:** durable books, papers, courses, and technical explanations of machine learning, deep learning, language models, and generative AI.
+2. **Building AI systems:** resources for designing, evaluating, securing, deploying, and operating useful AI applications and agents.
+3. **Agentic software engineering:** coding-agent harnesses, agent skills, software factories, orchestration, evaluation, and workflows that improve software delivery.
 
 The goal is not comprehensive coverage. Every entry must be unusually useful, credible, and distinct. A missing topic should remain a documented gap until a resource clears the bar.
+
+## Scope gate
+
+Apply scope before quality scoring. A strong resource that does not directly serve one of the three pillars does not belong in this repository.
+
+In scope:
+
+- technical foundations that help developers understand modern AI;
+- practical methods and tools for building production AI systems;
+- open-source or broadly accessible coding agents and agent harnesses with meaningful capability, documentation, and maintenance;
+- durable material about agent skills, context, evals, orchestration, isolated execution, and software factories;
+- high-quality books, courses, and tutorials that teach developers these subjects.
+
+Out of scope unless there is exceptional, pillar-specific engineering value:
+
+- general directories, news feeds, launch roundups, prompt collections, or affiliate lists;
+- narrow end-user AI products, media-generation tools, chat front ends, and domain-specific applications;
+- vendor homepages that do not teach or document a technical capability;
+- personal projects submitted mainly for promotion;
+- early demos with little documentation, maintenance evidence, or working implementation;
+- resources whose main value is unrelated to developers building or using AI systems.
+
+## First-party resources
+
+The maintainer may include a small number of his own resources when they are unusually relevant to the three pillars. Ownership must be clear in the description or surrounding text. This preference never overrides link health, factual accuracy, maintenance, usefulness, distinctiveness, or the scope gate.
+
+First-party resources still need a score of at least 80. When independent adoption evidence is limited, a working implementation, clear documentation, tests, releases, and direct use in substantive teaching may satisfy the real-world evidence criterion. Ownership alone is not evidence. Preview software must be labelled accurately and may be removed when it stops clearing the bar.
+
+The automation may inspect the maintainer's public repositories and teaching channel during a monthly governance run. It should add teaching material selectively, prefer durable technical lessons over announcements, and avoid turning the README into a promotional feed.
 
 ## Hard gates
 
@@ -15,7 +45,7 @@ Reject a resource if any of these are true:
 - it is deprecated, abandoned, or superseded without durable historical value;
 - it substantially duplicates a stronger entry;
 - it is primarily a product homepage, announcement, shallow collection, or marketing asset;
-- its quality, maintenance, adoption, or production-use claims lack evidence;
+- claims about its quality, maintenance, adoption, or production use lack evidence;
 - it serves a very narrow audience without exceptional technical value and an explicit niche label.
 
 Stars, downloads, release frequency, and social attention are signals, not proof. Use primary sources for factual claims and credible independent sources for adoption or production-use claims. Record unknown evidence as unknown.
@@ -53,13 +83,13 @@ Currentness means more than a recent release. Check whether the project reflects
 
 Review developer problems before looking for products. Important areas include:
 
-- model and deep-learning foundations;
+- model, deep-learning, and generative-AI foundations;
 - LLM application design, prompting, structured outputs, tools, and security;
 - retrieval, data ingestion, fine-tuning, and model serving;
 - evals, observability, testing, and production reliability;
 - agent design, context, memory, orchestration, and human approval;
 - synchronous request-response systems and asynchronous, event-driven, durable agents;
-- coding agents, isolated execution, CI feedback, and software factories.
+- coding-agent harnesses, agent skills, isolated execution, CI feedback, and software factories.
 
 Expand concepts into adjacent terms when researching. For example, software factories include issue-to-PR agents, planner-worker-reviewer systems, isolated runners, CI feedback loops, and coding-agent orchestration. Asynchronous AI systems include background agents, queues, events, checkpointing, retries, resumption, durable execution, and human approval.
 
@@ -99,4 +129,4 @@ The local weekly curator needs:
 - permission to create an isolated worktree, push or update its curation branch, and merge its verified pull request;
 - branch protection that requires the quality workflow before merge.
 
-The local automation runs each Monday at 09:00 in the desktop timezone. It uses a dated `codex/curation-YYYY-MM-DD` branch, creates or updates one pull request, and squash-merges it automatically only after every exact-head gate above passes. GitHub Actions remains responsible for deterministic quality checks.
+The scheduled repository steward must read `AUTOMATION.md` before selecting work. The specialist weekly curator runs each Monday at 09:00 in the desktop timezone. It uses a dated `codex/curation-YYYY-MM-DD` branch, creates or updates one pull request, and squash-merges it automatically only after every exact-head gate above passes. GitHub Actions remains responsible for deterministic quality checks.
