@@ -128,6 +128,7 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli): An open-source terminal agent built around Gemini and extensible tools.
 - [Cursor CLI](https://cursor.com/cli): A terminal agent connected to Cursor's editor and cloud workflows.
 - [GitHub Copilot coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent): An asynchronous agent that works from GitHub issues and opens pull requests.
+- [Kimi Code](https://www.kimi.com/code): A terminal and IDE agent from with subagents, skills, hooks, and MCP, built around Kimi K3.
 - [Aider](https://aider.chat/): An open-source pair programmer with Git integration and broad model support.
 - [OpenCode](https://opencode.ai/): An open-source, provider-independent terminal agent with a client-server architecture.
 - [OpenHands](https://docs.all-hands.dev/): An open-source platform for running software development agents locally or in the cloud.
