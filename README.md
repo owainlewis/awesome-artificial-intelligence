@@ -15,7 +15,7 @@ This is not a comprehensive directory of AI products. Every entry must clear an 
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
-For a guided starting point, get Owain Lewis's [free AI Engineer starter pack](https://aiengineer.co/start), which includes agent skills and tutorial code. Email signup is required.
+For a guided starting point, get the [free AI Engineer starter pack](https://aiengineer.co/start), which includes agent skills and tutorial code. Email signup is required.
 
 ## Learn
 
@@ -37,7 +37,7 @@ For a guided starting point, get Owain Lewis's [free AI Engineer starter pack](h
 
 ### Courses
 
-- [AI Engineer](https://aiengineer.co/): Owain Lewis's paid program for agentic coding and building, testing, and shipping production AI systems.
+- [AI Engineer](https://aiengineer.co/): A paid program for agentic coding and building, testing, and shipping production AI systems.
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1): Transformers, fine-tuning, datasets, and modern NLP tooling.
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/): The full lifecycle of building and shipping AI products.
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/): A code-first introduction to deep learning.
@@ -122,7 +122,7 @@ Coding agents help developers plan, implement, review, test, and debug software.
 
 ### Coding agents
 
-- [Neo](https://github.com/owainlewis/neo): Owain Lewis's open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers.
+- [Neo](https://github.com/owainlewis/neo): An open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers.
 - [Claude Code](https://code.claude.com/): A terminal agent with hooks, subagents, skills, and repository-level instructions.
 - [Codex CLI](https://github.com/openai/codex): An open-source terminal agent with sandbox and approval controls.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli): An open-source terminal agent built around Gemini and extensible tools.
@@ -138,7 +138,7 @@ For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https:/
 
 ### Agent skills and workflows
 
-- [Blueprint](https://github.com/owainlewis/blueprint/tree/main/skills): Owain Lewis's open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
+- [Blueprint](https://github.com/owainlewis/blueprint/tree/main/skills): An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
 
 ### Software factories and agent orchestration
 
@@ -146,7 +146,7 @@ For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https:/
 - [Codex Orchestration with Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/): A reference architecture that turns project work into isolated, observable coding-agent runs.
 - [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system): Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.
 
-The maintainer is also building [Factory](https://github.com/owainlewis/factory), a developer-preview control plane for scheduling and coordinating Pi, Codex, and Claude Code workers across Git repositories.
+[Factory](https://github.com/owainlewis/factory) is a developer-preview control plane for scheduling and coordinating Pi, Codex, and Claude Code workers across Git repositories.
 
 ## Contributing
 
@@ -162,4 +162,4 @@ A proposed resource should:
 
 Explain which developer problem the resource solves and why it clears the rubric. If it overlaps an existing entry, explain why it is materially better. Disclose any affiliation with the resource.
 
-For ongoing practical tutorials about coding agents and AI engineering, follow [Owain Lewis on YouTube](https://www.youtube.com/@owainlewis/videos).
+For ongoing practical tutorials about coding agents and AI engineering, visit the [AI Engineer YouTube channel](https://www.youtube.com/@owainlewis/videos).

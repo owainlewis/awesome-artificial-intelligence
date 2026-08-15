@@ -29,14 +29,6 @@ Out of scope unless there is exceptional, pillar-specific engineering value:
 - early demos with little documentation, maintenance evidence, or working implementation;
 - resources whose main value is unrelated to developers building or using AI systems.
 
-## First-party resources
-
-The maintainer may include a small number of his own resources when they are unusually relevant to the three pillars. Ownership must be clear in the description or surrounding text. This preference never overrides link health, factual accuracy, maintenance, usefulness, distinctiveness, or the scope gate.
-
-First-party resources still need a score of at least 80. When independent adoption evidence is limited, a working implementation, clear documentation, tests, releases, and direct use in substantive teaching may satisfy the real-world evidence criterion. Ownership alone is not evidence. Preview software must be labelled accurately and may be removed when it stops clearing the bar.
-
-The automation may inspect the maintainer's public repositories and teaching channel during a monthly governance run. It should add teaching material selectively, prefer durable technical lessons over announcements, and avoid turning the README into a promotional feed.
-
 ## Hard gates
 
 Reject a resource if any of these are true:
