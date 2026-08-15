@@ -15,7 +15,7 @@ This is not a comprehensive directory of AI products. Every entry must clear an 
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
-For a guided starting point, get Owain Lewis's [free AI Engineer starter pack](https://aiengineer.co/start), which includes agent skills and tutorial code. Email signup is required.
+For a guided starting point, get Owain Lewis's [free AI Engineer starter pack](https://aiengineer.co/start), which includes agent skills, $1M+ in software discounts and tutorial code. 
 
 ## Learn
 
