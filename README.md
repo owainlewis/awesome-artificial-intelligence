@@ -15,6 +15,8 @@ This is not a comprehensive directory of AI products. Every entry must clear an 
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
+For a guided starting point, get Owain Lewis's [free AI Engineer starter pack](https://aiengineer.co/start), which includes agent skills and tutorial code. Email signup is required.
+
 ## Learn
 
 ### Books
@@ -35,6 +37,7 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 
 ### Courses
 
+- [AI Engineer](https://aiengineer.co/): Owain Lewis's paid program for agentic coding and building, testing, and shipping production AI systems.
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1): Transformers, fine-tuning, datasets, and modern NLP tooling.
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/): The full lifecycle of building and shipping AI products.
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/): A code-first introduction to deep learning.
@@ -64,6 +67,7 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents): Anthropic's practical patterns and tradeoffs for agentic systems.
 - [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): OpenAI's guide to models, tools, instructions, orchestration, and guardrails.
+- [Awesome DeepSeek Agent](https://github.com/deepseek-ai/awesome-deepseek-agent): DeepSeek's official setup guides for integrating its models with coding agents including Claude Code, Codex, Cline, OpenCode, and Pi.
 
 ### LLM application engineering
 
@@ -112,16 +116,13 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
 - [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
 
-### Speech and audio
-
-- [FunASR](https://github.com/modelscope/FunASR): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
-
 ## Agentic software engineering
 
 Coding agents help developers plan, implement, review, test, and debug software. For independent capability comparisons, see [SWE-bench](https://www.swebench.com/) and [Terminal-Bench](https://www.tbench.ai/leaderboard/terminal-bench/2.1).
 
 ### Coding agents
 
+- [Neo](https://github.com/owainlewis/neo): Owain Lewis's open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers.
 - [Claude Code](https://code.claude.com/): A terminal agent with hooks, subagents, skills, and repository-level instructions.
 - [Codex CLI](https://github.com/openai/codex): An open-source terminal agent with sandbox and approval controls.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli): An open-source terminal agent built around Gemini and extensible tools.
@@ -133,15 +134,23 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [Cline](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
 - [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
 
+For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https://www.youtube.com/watch?v=QER-0DaC-Gk), which builds a minimal Go harness around the agent loop, tools, files, and terminal commands.
+
+### Agent skills and workflows
+
+- [Blueprint](https://github.com/owainlewis/blueprint/tree/main/skills): Owain Lewis's open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
+
 ### Software factories and agent orchestration
 
 - [Harness Engineering](https://openai.com/index/harness-engineering/): OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering.
 - [Codex Orchestration with Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/): A reference architecture that turns project work into isolated, observable coding-agent runs.
 - [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system): Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.
 
+The maintainer is also building [Factory](https://github.com/owainlewis/factory), a developer-preview control plane for scheduling and coordinating Pi, Codex, and Claude Code workers across Git repositories.
+
 ## Contributing
 
-Suggestions are welcome, but this list is intentionally selective. Read [the curation policy](CURATION.md) before opening an issue or pull request.
+Suggestions are welcome, but this list is intentionally selective. Read [the contribution guide](CONTRIBUTING.md) and [the curation policy](CURATION.md) before opening an issue or pull request.
 
 A proposed resource should:
 
@@ -152,3 +161,5 @@ A proposed resource should:
 - use a factual description supported by a primary source.
 
 Explain which developer problem the resource solves and why it clears the rubric. If it overlaps an existing entry, explain why it is materially better. Disclose any affiliation with the resource.
+
+For ongoing practical tutorials about coding agents and AI engineering, follow [Owain Lewis on YouTube](https://www.youtube.com/@owainlewis/videos).

@@ -13,9 +13,10 @@ Turn the repository into a weekly, evidence-backed curation system rather than a
 ## Goals
 
 - Surface the absolute best resources for software developers becoming professional AI engineers.
-- Cover two complementary pillars:
-  - serious foundations, including classic books, papers, courses, and durable research;
-  - practical AI engineering, including GenAI applications, RAG, agents, evals, security, production operations, agentic software engineering, software factories, and synchronous versus asynchronous AI systems.
+- Cover three complementary pillars:
+  - AI foundations, including classic books, papers, courses, and durable research;
+  - building AI systems, including GenAI applications, RAG, agents, evals, security, and production operations;
+  - agentic software engineering, including coding-agent harnesses, agent skills, software factories, orchestration, and synchronous versus asynchronous AI systems.
 - Discover important engineering topics that the repository does not yet cover.
 - Evaluate incumbents and challengers, allowing additions, corrections, replacements, and removals.
 - Keep weekly churn low enough that every change remains meaningful and reviewable.
@@ -44,7 +45,7 @@ Turn the repository into a weekly, evidence-backed curation system rather than a
 
 ### Editorial model
 
-The repository will use a version-controlled `CURATION.md` policy with two evaluation profiles.
+The repository uses a version-controlled `CURATION.md` policy with three scope pillars and two evaluation profiles.
 
 Foundational resources will be scored on:
 
@@ -112,7 +113,7 @@ On every outcome the automation inspects and safely removes only the exact tempo
 
 ### Locked prompts
 
-The curator prompt will be stored at `.github/codex/prompts/weekly-curation.md`. It will be a short `/goal` contract that names the policy, allowed file, checks, proof, effort budget, and stop conditions. Detailed editorial judgment stays in `CURATION.md` so the prompt remains stable and reviewable.
+The curator prompt is stored at `.github/codex/prompts/weekly-curation.md`. It is a short `/goal` contract that delegates repository-wide operating rules to `AUTOMATION.md` and editorial judgment to `CURATION.md`, then names the allowed file, checks, proof, effort budget, and stop conditions. Keeping the detailed contracts in version control makes the scheduled prompt stable and reviewable.
 
 The reviewer prompt will be stored separately. It will not trust the curator report. It will verify changed resources, scoring, evidence, category fit, and churn rules from the actual diff and sources. Any hard-gate failure, unsupported claim, or policy violation rejects the patch.
 

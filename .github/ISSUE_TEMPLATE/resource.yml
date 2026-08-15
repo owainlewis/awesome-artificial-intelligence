@@ -1,0 +1,71 @@
+name: Suggest a resource
+description: Propose a high-quality resource for the curated list.
+title: "[Resource]: "
+labels:
+  - curation-candidate
+body:
+  - type: markdown
+    attributes:
+      value: Read the curation policy before submitting. A strong resource can still be out of scope.
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: pillar
+    attributes:
+      label: Scope pillar
+      description: Which primary pillar does this resource serve?
+      options:
+        - AI foundations
+        - Building AI systems
+        - Agentic software engineering
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Developer problem
+      description: What specific problem does this solve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: distinction
+    attributes:
+      label: Distinction
+      description: What is the strongest comparable entry, and why is this materially different or better?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link primary evidence for factual claims and independent evidence for adoption or production-use claims.
+    validations:
+      required: true
+  - type: textarea
+    id: maintenance
+    attributes:
+      label: Maintenance and limitations
+      description: Describe current maintenance and disclose preview status, pricing, access limits, or other constraints.
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Disclose ownership, employment, authorship, sponsorship, or another relationship. Write "None" if there is no affiliation.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: I searched the README and open issues and pull requests for duplicates.
+          required: true
+        - label: I read CURATION.md and believe this resource passes its scope gate and quality rubric.
+          required: true

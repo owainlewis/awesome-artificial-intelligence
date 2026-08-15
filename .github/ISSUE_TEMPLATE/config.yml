@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Curation policy
+    url: https://github.com/owainlewis/awesome-artificial-intelligence/blob/master/CURATION.md
+    about: Check the scope and evidence rules before proposing a resource.
