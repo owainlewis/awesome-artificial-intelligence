@@ -109,6 +109,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [OpenAI Evals](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
+- [Agent QA](https://github.com/vostride/agent-qa): A source-available QA harness for natural-language web and mobile regression suites, persistent test memory, and self-healing execution.
 
 ### Deployment and observability
 
