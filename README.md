@@ -47,6 +47,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118): An introductory path through generative AI concepts and Google Cloud tooling.
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/): Focused courses on current generative AI engineering techniques.
 - [Made With ML](https://madewithml.com/): An open course on designing, developing, deploying, and iterating on production ML systems.
+- [AI Agent Frameworks (AI School)](https://lillytechsystems.com/ai-school/agent-frameworks/): Hands-on comparison of LangGraph, CrewAI, and the OpenAI Agents SDK for building and orchestrating multi-step AI agents, with annotated code in every lesson.
 
 ### Foundational papers
 
