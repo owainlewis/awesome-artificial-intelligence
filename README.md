@@ -115,6 +115,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Langfuse](https://langfuse.com/docs): Tracing, evaluation, prompt management, and metrics for LLM applications.
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
 - [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
+- [Bifrost](https://github.com/maximhq/bifrost): A high-performance AI gateway that provides an OpenAI-compatible interface, multi-provider routing, automatic failover, load balancing, governance, and observability.
 
 ## Agentic software engineering
 
