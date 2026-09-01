@@ -47,6 +47,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118): An introductory path through generative AI concepts and Google Cloud tooling.
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/): Focused courses on current generative AI engineering techniques.
 - [Made With ML](https://madewithml.com/): An open course on designing, developing, deploying, and iterating on production ML systems.
+- [Zero to AI-Native](https://www.zerotoainative.xyz/): An open-source, sequenced curriculum of primary-source AI reads across eight modules, from foundations through production and safety.
 
 ### Foundational papers
 
