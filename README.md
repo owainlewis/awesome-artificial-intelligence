@@ -139,6 +139,7 @@ For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https:/
 ### Agent skills and workflows
 
 - [Blueprint](https://github.com/owainlewis/blueprint/tree/main/skills): An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes, and MCP calls on one timeline — then replays it offline with the network off or forks it from a checkpoint onto a different model, and ships a skill that teaches an agent to read the trace rather than reconstruct events from context.
 
 ### Software factories and agent orchestration
 
