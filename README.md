@@ -139,6 +139,7 @@ For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https:/
 ### Agent skills and workflows
 
 - [Blueprint](https://github.com/owainlewis/blueprint/tree/main/skills): An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
+- [Biology Skills](https://github.com/biologyskills/biology-skills): Open-source Agent Skills that make expert biological assumptions explicit for biologically correct AI-assisted scientific work.
 
 ### Software factories and agent orchestration
 
