@@ -109,6 +109,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [OpenAI Evals](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
+- [ModelBenchmark](https://modelbenchmark.io): Independent rankings of AI models: composite of 16 public benchmarks, prices, context windows.
 
 ### Deployment and observability
 
