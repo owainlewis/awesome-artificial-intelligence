@@ -70,6 +70,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Awesome DeepSeek Agent](https://github.com/deepseek-ai/awesome-deepseek-agent): DeepSeek's official setup guides for integrating its models with coding agents including Claude Code, Codex, Cline, OpenCode, and Pi.
 
 ### LLM application engineering
+- [AI Group Call](https://aigroupcall.app) - Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items.
 
 - [OpenAI Cookbook](https://cookbook.openai.com/): Code examples for structured outputs, tool use, retrieval, evals, and other LLM application patterns.
 - [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview): Techniques for defining success criteria, testing prompts, and improving model behaviour.
