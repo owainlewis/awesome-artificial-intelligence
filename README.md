@@ -113,6 +113,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 ### Deployment and observability
 
 - [Langfuse](https://langfuse.com/docs): Tracing, evaluation, prompt management, and metrics for LLM applications.
+- [LangWatch](https://langwatch.ai/docs/introduction): Open-source tracing, evaluations, and simulated-user agent testing for LLM applications.
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
 - [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
 
