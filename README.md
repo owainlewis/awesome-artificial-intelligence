@@ -106,6 +106,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 ### Evals and reliability
 
 - [Demystifying Evals for AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents): A practical method for building task suites, graders, transcripts, and evaluation harnesses.
+- [Future AGI](https://github.com/future-agi/future-agi): A self-hostable evaluation, tracing, and guardrail platform with code-based agent checks such as tool-call accuracy and trajectory match, OpenTelemetry trace ingest, and an OpenAI-compatible gateway that screens traffic for PII and prompt injection.
 - [OpenAI Evals](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
