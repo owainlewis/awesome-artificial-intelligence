@@ -133,6 +133,7 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [OpenHands](https://docs.all-hands.dev/): An open-source platform for running software development agents locally or in the cloud.
 - [Cline](https://github.com/cline/cline): An open-source coding agent available as an editor extension, CLI, and SDK.
 - [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
+- [Mercury CLI](https://github.com/Whq02/MercuryCLI): An open-source terminal coding agent with parallel sessions, isolated Git worktree subagents, 22 model providers, LSP, and a DAP debugger.
 
 For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https://www.youtube.com/watch?v=QER-0DaC-Gk), which builds a minimal Go harness around the agent loop, tools, files, and terminal commands.
 
