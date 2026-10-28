@@ -96,6 +96,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Running Agents](https://openai.github.io/openai-agents-python/running_agents/): Lifecycle, session, exception, and durable-execution patterns in the OpenAI Agents SDK.
 - [Human-in-the-Loop](https://openai.github.io/openai-agents-python/human_in_the_loop/): Pause, inspect, approve, reject, and resume tool calls without losing agent state.
 - [Gemini and Temporal Durable Agent](https://ai.google.dev/gemini-api/docs/temporal-example): A concrete implementation of durable execution, retries, and human approval for an agent workflow.
+- [Heym Agent Architecture](https://github.com/heymrun/heym/blob/main/frontend/src/docs/content/reference/agent-architecture.md): A technical guide to dispatching sub-agents and resuming workflows from stored execution snapshots after human approval, with explicit limits on nested workflows.
 
 ### Retrieval and data
 
