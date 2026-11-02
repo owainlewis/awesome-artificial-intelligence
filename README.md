@@ -45,6 +45,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu/): Build language models from data preparation through evaluation and deployment.
 - [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com/): Deep learning foundations and applications.
 - [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118): An introductory path through generative AI concepts and Google Cloud tooling.
+- [Awesome AI Engineer Interview](https://github.com/Johnnnmai/awesome-ai-engineer-interview): A data-driven field guide to AI engineer interviews built from 2,445 real job descriptions and 51 company processes, with a free answer self-checker.
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/): Focused courses on current generative AI engineering techniques.
 - [Made With ML](https://madewithml.com/): An open course on designing, developing, deploying, and iterating on production ML systems.
 
