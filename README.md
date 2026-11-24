@@ -102,6 +102,7 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [LlamaIndex](https://docs.llamaindex.ai/): Data ingestion, indexing, retrieval, and agent workflows.
 - [Haystack](https://docs.haystack.deepset.ai/): Modular pipelines for retrieval and generative AI applications.
 - [Docling](https://github.com/docling-project/docling): Document parsing and conversion for AI applications.
+- [FlashData MCP](https://github.com/flashdatadev/flashdata-mcp): Open-source stdio and hosted Remote MCP server for live Google Search structured JSON, timestamped YouTube transcripts for RAG, and cloud video downloads.
 
 ### Evals and reliability
 
